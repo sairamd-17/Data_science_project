@@ -1,0 +1,1536 @@
+Application ID,Region,Household size,Annual income,Income category,Gender,Disability status,Housing need score,Eligibility status,Application status,Housing allocation,Waiting time,Monthly rent
+APP-10202,North,2,14800.0,Very Low Income,Female,Yes,86,Eligible,Approved,Allocated,17.4,440.0
+APP-11079,North,2,34100.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10649,West,2,32700.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11413,South,4,25700.0,Low Income,Male,No,65,Eligible,Pending,Not Allocated,8.4,782.0
+APP-11171,East,3,37100.0,Low Income,Female,No,63,Eligible,Pending,Not Allocated,9.1,1032.0
+APP-11299,East,7,50000.0,Moderate Income,Male,No,56,Eligible,Pending,Not Allocated,5.2,1495.0
+APP-11140,East,4,20700.0,Very Low Income,Male,No,82,Eligible,Approved,Allocated,3.9,658.0
+APP-10161,South,3,36800.0,Low Income,Female,No,56,Eligible,Approved,Not Allocated,4.5,1025.0
+APP-10785,North,1,27000.0,Low Income,Male,No,55,Eligible,Approved,Allocated,13.6,710.0
+APP-11245,West,3,49500.0,Moderate Income,Female,No,41,Eligible,Approved,Not Allocated,,1342.0
+APP-10373,North,3,21700.0,Very Low Income,Male,Yes,83,Eligible,Approved,Allocated,22.7,648.0
+APP-10087,West,3,29500.0,Low Income,Male,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11418,North,4,52600.0,Moderate Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10603,North,1,32200.0,Low Income,Male,No,49,Eligible,Approved,Allocated,19.1,840.0
+APP-10317,South,2,40100.0,Low Income,Female,No,49,Eligible,Approved,Not Allocated,13.0,1072.0
+APP-10019,South,2,19100.0,Very Low Income,Female,No,73,Eligible,Approved,Not Allocated,27.8,548.0
+APP-10639,South,1,16800.0,Very Low Income,Male,No,82,Eligible,Approved,Not Allocated,11.2,455.0
+APP-11494,North,2,17500.0,Very Low Income,Female,No,75,Eligible,Approved,Not Allocated,12.5,507.0
+APP-10142,South,4,26600.0,Low Income,Male,Yes,78,Eligible,Pending,Not Allocated,13.8,805.0
+APP-10936,South,2,52300.0,Moderate Income,Male,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11187,West,1,35200.0,Low Income,Female,No,60,Eligible,Pending,Not Allocated,28.9,915.0
+APP-10611,North,1,19000.0,Very Low Income,Male,Yes,92,Eligible,Approved,Allocated,22.5,510.0
+APP-10875,North,3,34300.0,Low Income,Male,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11354,West,5,27700.0,Low Income,Male,No,77,Eligible,Approved,Allocated,43.4,868.0
+APP-11269,East,3,48300.0,Moderate Income,Male,Yes,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11252,South,3,24200.0,Very Low Income,Female,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10654,West,4,65700.0,Moderate Income,Female,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10793,East,1,25500.0,Low Income,Male,Yes,79,Eligible,Approved,Not Allocated,13.9,672.0
+APP-10963,South,3,68800.0,Moderate Income,Male,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10721,Central,4,22600.0,Very Low Income,Female,No,68,Eligible,Approved,Allocated,42.8,705.0
+APP-11161,West,2,46600.0,Moderate Income,Female,No,47,Eligible,Approved,Allocated,12.6,1235.0
+APP-11201,West,3,25800.0,Low Income,Female,Yes,88,Eligible,Approved,Not Allocated,10.3,750.0
+APP-10788,South,2,19800.0,Very Low Income,Male,No,64,Eligible,Approved,Allocated,37.8,565.0
+APP-10674,East,5,51900.0,Moderate Income,Male,Yes,68,Eligible,Approved,Allocated,10.7,1472.0
+APP-10772,West,2,22900.0,Very Low Income,Female,No,73,Eligible,Approved,Not Allocated,4.1,642.0
+APP-10523,Central,6,22700.0,Very Low Income,Female,No,80,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10860,North,1,32000.0,Low Income,Male,N,42,Eligible,Pending,Not Allocated,6.0,835.0
+APP-10075,West,1,14400.0,Very Low Income,Female,No,65,Eligible,Rejected,Not Allocated,,0.0
+APP-11473,Central,4,32700.0,Low Income,Male,No,63,Eligible,Pending,Not Allocated,23.4,958.0
+APP-10043,North,3,19000.0,Very Low Income,Female,No,88,Eligible,Approved,Allocated,18.7,580.0
+APP-11352,East,2,51200.0,Moderate Income,Female,No,37,Eligible,Pending,Not Allocated,2.5,1350.0
+APP-10058,North,2,39800.0,Low Income,Male,No,57,Eligible,Approved,Allocated,5.9,1065.0
+APP-10262,Central,4,23400.0,Very Low Income,Male,No,70,Eligible,Pending,Not Allocated,12.3,725.0
+APP-10473,North,2,28200.0,Low Income,Female,Yes,80,Eligible,Approved,Allocated,28.8,775.0
+APP-10308,South,1,38500.0,Low Income,Female,Yes,65,Eligible,Approved,Allocated,17.3,998.0
+APP-10739,South,1,12300.0,Very Low Income,Female,No,68,Eligible,Pending,Not Allocated,9.7,342.0
+APP-11160,North,3,25700.0,Low Income,Female,Yes,78,Eligible,Approved,Not Allocated,3.5,747.0
+APP-10841,North,4,29000.0,Low Income,Male,Yes,88,Eligible,Approved,Not Allocated,10.0,865.0
+APP-11258,South,5,50600.0,Moderate Income,Male,Yes,67,Eligible,Approved,Allocated,9.4,1440.0
+APP-10566,East,4,64700.0,Moderate Income,Male,Yes,70,Eligible,Approved,Allocated,12.9,1650.0
+APP-10577,North,1,25300.0,Low Income,Non-Binary,No,66,Eligible,Approved,Not Allocated,11.1,668.0
+APP-10625,East,7,52100.0,moderate income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10454,Central,4,24300.0,Very Low Income,Male,Yes,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10261,East,2,37000.0,Low Income,Male,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10877,West,2,21000.0,Very Low Income,Female,No,68,Eligible,Pending,Not Allocated,5.1,595.0
+APP-11306,Central,7,44100.0,Low Income,Female,No,69,Eligible,Approved,Allocated,22.7,1348.0
+APP-10457,North,3,30100.0,Low Income,Male,Yes,70,Eligible,Approved,Allocated,11.9,858.0
+APP-11103,Central,4,31800.0,Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11003,Central,3,36100.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10444,South,4,24800.0,Very Low Income ,Male,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10764,West,2,18500.0,Very Low Income,female,No,76,Eligible,Approved,Allocated,13.9,532.0
+APP-10685,Central,3,31600.0,Low Income,Male,Yes,72,Eligible,Approved,Not Allocated,16.3,895.0
+APP-11347,South,4,27600.0,Low Income,Male,No,76,Eligible,Pending,Not Allocated,3.7,830.0
+APP-10947,North,2,56200.0,Moderate Income,Female,Yes,66,Eligible,Approved,Allocated,13.6,1475.0
+APP-10486,Central,1,23500.0,Very Low Income,Female,Yes,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11423,North,4,25900.0,Low Income,FEMALE,Yes,91,Eligible,Rejected,Not Allocated,,0.0
+APP-10958,North,3,35200.0,Low Income,Male,No,58,Eligible,Pending,Not Allocated,7.4,985.0
+APP-10737,South,5,34700.0,Low Income,Male,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10978,North,4,27500.0,Low Income,Male,No,81,Eligible,Approved,Allocated,11.9,827.0
+APP-10366,South,6,22700.0,Very Low Income,Male,Yes,99,Eligible,Pending,Not Allocated,3.9,778.0
+APP-11047,South,1,32800.0,Low Income,Male,No,53,Eligible,Approved,Allocated,16.8,855.0
+APP-10620,West,5,38500.0,Low Income,Female,Yes,76,Eligible,Approved,Allocated,18.2,1138.0
+APP-10413,Central,8,54000.0,Moderate Income,Male,No,67,Eligible,Pending,Not Allocated,18.2,1630.0
+APP-11297,North,1,29500.0,Low Income,Female,Yes,73,Eligible,Approved,Allocated,27.2,772.0
+APP-10283,South,2,31000.0,Low Income,female,No,64,Eligible,Pending,Not Allocated,6.6,845.0
+APP-11412,North,1,26400.0,Low Income  ,Female,No,56,Eligible,Approved,Allocated,16.4,695.0
+APP-11249,Central,4,37100.0,Low Income,Female,No,57,Eligible,Approved,Allocated,12.4,1068.0
+APP-10669,North,3,26500.0,Low Income,Female,No,64,Eligible,Rejected,Not Allocated,,0.0
+APP-11096,North,4,23400.0,Very Low Income,Female,Yes,69,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11078,East,3,52000.0,Moderate Income,Male,No,53,Eligible,Pending,Not Allocated,3.6,1405.0
+APP-11046,East,2,17400.0,VERY LOW INCOME,Male,No,80,Eligible,Approved,Allocated,8.9,505.0
+APP-10698,East,5,31900.0,Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10464,East,2,25500.0,Low Income,Female,Yes,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11085,Central,3,74300.0,High Income,Male,No,48,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10401,North,3,60200.0,Moderate Income,Female,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11058,South,2,30200.0,Low Income,Female,Yes,75,Eligible,Approved,Not Allocated,28.3,825.0
+APP-11461,South,1,17800.0,Very Low Income,Male,Yes,85,Eligible,Approved,Allocated,24.0,480.0
+APP-10832,South,1,33000.0,Low Income,Male,No,51,Eligible,Approved,Not Allocated,14.6,860.0
+APP-11311,North,2,25100.0,Low Income,Male,No,69,Eligible,Approved,Not Allocated,7.6,697.0
+APP-10717,West,4,62400.0,Moderate Income,Male,Yes,66,Eligible,Approved,Not Allocated,12.4,1650.0
+APP-10208,East,1,26600.0,Low Income,Female,No,68,Eligible,Approved,Allocated,8.1,700.0
+APP-10867,North,1,13800.0,Very Low Income,Non-Binary,Yes,89,Eligible,Approved,Allocated,15.0,380.0
+APP-10157,East,3,92000.0,High Income,Male,N,46,Eligible,Approved,Allocated,19.5,1650.0
+APP-10397,Central,3,33700.0,Low Income,Male,No,55,Eligible,Approved,Allocated,26.5,948.0
+APP-11244,West,1,14700.0,Very Low Income,Male,No,74,Eligible,Approved,Allocated,13.5,402.0
+APP-10918,Central,1,22700.0,Very Low Income,Female,No,66,Eligible,Approved,Allocated,43.9,602.0
+APP-10503,South,5,25800.0,Low Income,Male,No,82,Eligible,Approved,Allocated,38.4,820.0
+APP-11295,West,2,21300.0,Very Low Income,Male,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11390,South,4,22100.0,Very Low Income,Male,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10387,South,1,23100.0,Very Low Income,Male,No,58,Eligible,Approved,Allocated,15.0,612.0
+APP-10895,East,5,33500.0,Low Income,Male,No,71,Eligible,Approved,Not Allocated,15.4,1012.0
+APP-10588,North,3,28600.0,Low Income,Female,No,74,Eligible,Approved,Allocated,10.8,820.0
+APP-10212,West,1,27500.0,Low Income,female,No,53,Eligible,Approved,Not Allocated,23.9,722.0
+APP-11387,West,3,26400.0,Low Income,Female,Yes,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10044,Central,2,22600.0,Very Low Income,Female,Yes,82,Eligible,Approved,Not Allocated,26.5,635.0
+APP-11097,South,2,27600.0,Low Income,Female,No,68,Eligible,Approved,Allocated,31.1,760.0
+APP-10309,West,1,28500.0,Low Income,Female,No,41,Eligible,Approved,Allocated,30.9,748.0
+APP-11450,West,6,28600.0,Low Income,Male,No,70,Eligible,Pending,Not Allocated,7.3,925.0
+APP-10301,North,6,29400.0,Low Income,Female,No,83,Eligible,Approved,Allocated,6.8,945.0
+APP-10618,South,3,25400.0,Low Income,Male,No,67,Eligible,Approved,Allocated,19.0,740.0
+APP-10402,Central,1,51600.0,Moderate Income,Male,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10033,North,4,37200.0,Low Income,Female,Yes,84,Eligible,Approved,Allocated,7.7,1070.0
+APP-11052,East,1,33700.0,Low Income,Non-Binary,Yes,68,Eligible,Approved,Allocated,10.5,878.0
+APP-11370,South,2,27600.0,Low Income,Female,No,53,Eligible,Approved,Allocated,16.9,760.0
+APP-11021,West,3,30100.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,10.2,858.0
+APP-11284,North,4,42800.0,Low Income,Female,No,56,Eligible,Approved,Allocated,22.3,1210.0
+APP-10770,West,3,57900.0,Moderate Income,Male,Yes,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10777,South,4,19100.0,Very Low Income,Non-Binary,No,67,Eligible,Approved,Allocated,25.2,618.0
+APP-11470,West,2,18700.0,Very Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10911,East,3,28500.0,Low Income,Non-Binary,Yes,77,Eligible,Pending,Not Allocated,1.0,818.0
+APP-10173,East,5,39700.0,Low Income,Female,No,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10946,North,2,19400.0,Very Low Income,Female,No,56,Eligible,Pending,Not Allocated,4.9,555.0
+APP-11088,North,3,20300.0,Very Low Income,Male,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10437,North,2,21600.0,Very Low Income,Female,No,70,Eligible,Approved,Not Allocated,14.1,610.0
+APP-10192,Central,3,20400.0,Very Low Income,Female,No,66,Eligible,Approved,Allocated,20.4,615.0
+APP-10183,Central,3,37900.0,Low Income,Male,Yes,62,Eligible,Pending,Not Allocated,15.9,1052.0
+APP-11349,Central,3,43600.0,Low Income,Male,N,47,Eligible,Approved,Allocated,,1195.0
+APP-10757,East,3,20200.0,Very Low Income,Female,No,67,Eligible,Approved,Not Allocated,12.0,610.0
+APP-10390,West,8,53300.0,Moderate Income,Female,,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10543,South,3,41000.0,Low Income,Female,No,53,Eligible,Approved,Allocated,15.1,1130.0
+APP-10924,West,2,38100.0,Low Income,Female,No,54,Eligible,Approved,Allocated,12.8,1022.0
+APP-11318,West,1,34000.0,Low Income,Female,No,50,Eligible,Approved,Allocated,7.2,885.0
+APP-10561,West,1,21300.0,Very Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10235,North,1,42100.0,Low Income,Female,Yes,66,Eligible,Approved,Allocated,6.8,1088.0
+APP-10637,East,1,25200.0,Low Income,Female,No,60,Eligible,Approved,Allocated,8.6,665.0
+APP-10854,Central,5,54300.0,Moderate Income,Male,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10681,West,2,12300.0,Very Low Income,Female,No,80,Eligible,Pending,Not Allocated,9.3,378.0
+APP-10679,Central,3,26000.0,Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11343,Central,5,53100.0,Moderate Income,Female,No,45,Eligible,Pending,Not Allocated,15.6,1502.0
+APP-11006,East,1,24800.0,Very Low Income,Male,No,64,Eligible,Approved,Allocated,11.2,655.0
+APP-10330,South,2,26000.0,Low Income,Female,Yes,72,Eligible,Pending,Not Allocated,7.4,720.0
+APP-10879,North,2,39000.0,Low Income,Male,No,53,Eligible,Approved,Allocated,3.4,1045.0
+APP-10524,West,1,20900.0,Very Low Income,Male,Yes,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10015,North,1,20500.0,VERY LOW INCOME,Female,No,67,Eligible,Approved,Not Allocated,22.6,-320.0
+APP-10127,West,1,24100.0,Very Low Income,Female,No,65,Eligible,Approved,Allocated,4.9,638.0
+APP-11007,West,5,36200.0,Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,
+APP-11194,East,2,19400.0,Very Low Income,Female,Yes,82,Eligible,Approved,Allocated,27.6,555.0
+APP-11011,South,1,16700.0,Very Low Income,Female,No,73,Eligible,Approved,Allocated,3.2,
+APP-10799,West,1,25400.0,Low Income,Female,Yes,83,Eligible,Pending,Not Allocated,11.4,670.0
+APP-10204,Central,3,35600.0,Low Income,Female,No,61,Eligible,Pending,Not Allocated,4.9,995.0
+APP-10638,South,4,34200.0,Low Income,Male,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10876,North,2,20000.0,Very Low Income,Female,Yes,70,Eligible,Approved,Allocated,,570.0
+APP-10613,East,1,21400.0,Very Low Income,Female,No,58,Eligible,Approved,Allocated,15.5,570.0
+APP-10731,North,4,50600.0,Moderate Income,Male,No,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10667,South,3,18900.0,Very Low Income,Female,Yes,90,Eligible,Approved,Allocated,19.9,578.0
+APP-10961,North,8,31900.0,Low Income,Female,No,76,Eligible,Approved,Allocated,8.5,1078.0
+APP-11422,East,4,28300.0,Low Income,Male,No,63,Eligible,Approved,Allocated,5.9,848.0
+APP-11491,South,1,20700.0,Very Low Income,Male,No,69,Eligible,Approved,Not Allocated,32.8,552.0
+APP-10352,Central,4,48600.0,Moderate Income,Female,No,60,Eligible,Approved,Not Allocated,15.4,1355.0
+APP-10293,West,3,23200.0,Very Low Income,Female,Yes,86,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10597,East,3,31900.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,1.8,902.0
+APP-10999,Central,7,48400.0,Moderate Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10132,South,2,57200.0,Moderate Income,Male,No,43,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11054,West,6,36500.0,Low Income,Male,No,76,Eligible,Approved,Not Allocated,11.3,1122.0
+APP-10560,East,3,49500.0,Moderate Income,Female,No,44,Eligible,Pending,Not Allocated,6.6,1342.0
+APP-10482,West,4,24900.0,Very Low Income,Male,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11236,South,4,22400.0,Very Low Income,Non-Binary,No,82,Eligible,Approved,Allocated,13.6,700.0
+APP-10288,East,3,43800.0,Low Income,Male,Yes,74,Eligible,Approved,Allocated,17.7,1200.0
+APP-10063,West,4,23500.0,Very Low Income,Male,No,71,Eligible,Approved,Allocated,52.5,728.0
+APP-10357,North,4,34800.0,Low Income,Female,Yes,87,Eligible,Approved,Allocated,15.9,1010.0
+APP-10690,North,3,28800.0,Low Income,Female,No,55,Eligible,Approved,Allocated,7.8,825.0
+APP-10914,South,1,43500.0,Low Income,Male,No,45,Eligible,Approved,Allocated,16.0,1122.0
+APP-10992,West,1,24000.0,Very-Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10045,South,6,36600.0,Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10051,Central,6,30800.0,Low Income,Non-Binary,No,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10343,North,2,28300.0,Low Income,Female,No,63,Eligible,Pending,Not Allocated,6.9,778.0
+APP-11112,South,1,59400.0,Moderate Income,Female,No,39,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10254,South,2,18700.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,14.1,538.0
+APP-10305,West,2,22500.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,18.5,632.0
+APP-10029,East,4,29000.0,Low Income,Male,Yes,78,Eligible,Approved,Not Allocated,15.6,865.0
+APP-10479,Central,5,48400.0,Moderate Income,Male,Yes,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10386,West,2,23600.0,Very Low Income,Female,Yes,88,Eligible,Approved,Allocated,23.1,
+APP-11301,North,4,38000.0,Low Income,Female,No,145,Eligible,Approved,Allocated,8.7,1090.0
+APP-10120,East,4,31000.0,Low Income,Female,Yes,81,Eligible,Approved,Not Allocated,17.3,915.0
+APP-10781,West,2,27800.0,Low Income,Male,No,65,Eligible,Approved,Allocated,5.9,765.0
+APP-10759,Central,2,34200.0,Low Income,Male,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10839,East,1,38600.0,Low Income,Female,No,41,Eligible,Approved,Allocated,5.4,1000.0
+APP-11227,South,1,18900.0,Very Low Income,Female,No,60,Eligible,Pending,Not Allocated,8.2,508.0
+APP-11198,Central,2,51500.0,Moderate Income,Female,,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10274,Central,6,59100.0,Moderate Income,Female,No,56,Eligible,Pending,Not Allocated,14.8,1650.0
+APP-11397,South,3,15700.0,Very Low Income,Male,No,69,Eligible,Approved,Not Allocated,,497.0
+APP-10705,North,4,61900.0,Moderate Income,Female ,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10108,West,4,35900.0,Low Income,Male,No,59,Eligible,Approved,Allocated,13.9,1038.0
+APP-10668,North,1,9500.0,Very Low Income,Female,No,68,Eligible,Rejected,Not Allocated,,0.0
+APP-10007,North,3,27200.0,Low Income,Female,No,65,Eligible,Approved,Allocated,12.8,785.0
+APP-11314,West,1,30200.0,Low Income,Female,No,59,Eligible,Approved,Allocated,18.2,790.0
+APP-10267,West,4,26300.0,Low Income,Male,No,76,Eligible,Approved,Allocated,13.0,797.0
+APP-10337,Central,1,32300.0,Low Income,Female,Yes,60,Eligible,Pending,Not Allocated,13.9,842.0
+APP-10147,East,1,23700.0,Very Low Income,Male,No,74,Eligible,Approved,Not Allocated,22.0,628.0
+APP-11409,East,2,32000.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10641,North,4,57000.0,Moderate Income,Male,No,44,Eligible,Approved,Allocated,32.0,1565.0
+APP-10334,North,4,42600.0,Low Income,Male,No,55,Eligible,Approved,Not Allocated,5.2,1205.0
+APP-10586,South,2,51600.0,Moderate Income,Male,No,52,Eligible,Approved,Not Allocated,36.6,1360.0
+APP-10548,East,4,61700.0,Moderate Income,Male,No,53,Eligible,Approved,Allocated,23.1,1650.0
+APP-10779,West,3,31800.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10013,West,6,25500.0,Low Income,Female,No,77,Eligible,Approved,Allocated,15.5,848.0
+APP-10130,East,2,37700.0,Low Income,Male,No,53,Eligible,Approved,Allocated,28.0,1012.0
+APP-11296,North,3,21300.0,Very Low Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10655,South,1,33500.0,Low Income,Female,No,53,Eligible,Approved,Allocated,16.4,872.0
+APP-10225,South,3,85800.0,High Income,Female,,63,Eligible,Approved,Allocated,4.9,1650.0
+APP-10153,North,2,25400.0,Low Income,Female,Yes,75,Eligible,Rejected,Not Allocated,0.0,
+APP-10286,North,5,50400.0,Moderate Income,Female,N,56,Eligible,Approved,Allocated,14.9,1435.0
+APP-10723,North,1,28900.0,Low Income,Female,No,58,Eligible,Pending,Not Allocated,5.0,758.0
+APP-10064,South,2,20500.0,Very Low Income,Male,No,61,Eligible,Pending,Not Allocated,5.2,
+APP-10960,West,2,28700.0,Low Income,Female,No,61,Eligible,Approved,Not Allocated,41.7,787.0
+APP-10209,North,3,34800.0,Low Income,Female,No,62,Eligible,Pending,Not Allocated,8.1,975.0
+APP-10505,West,2,46500.0,Moderate Income,Female,Yes,50,Eligible,Pending,Not Allocated,8.6,1232.0
+APP-10223,North,2,25700.0,Low Income,Female,No,54,Eligible,Approved,Allocated,12.6,712.0
+APP-11381,North,2,40200.0,Low Income,Female,No,46,Eligible,Pending,Not Allocated,11.8,1075.0
+APP-11500,Central,5,23800.0,Very Low Income,Female,No,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10159,South,2,17700.0,Very Low Income,Male,Y,79,Eligible,Approved,Allocated,33.6,512.0
+APP-11373,Central,5,22600.0,Very Low Income,Female,No,76,Eligible,Rejected,Not Allocated,,0.0
+APP-11471,East,2,24700.0,Very Low Income,Female,No,67,Eligible,Approved,Allocated,2.6,688.0
+APP-10542,East,3,15900.0,Very Low Income,Female,No,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11327,North,4,34000.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10145,South,1,16000.0,Very Low Income,FEMALE,Yes,70,Eligible,Approved,Allocated,43.5,435.0
+APP-10984,North,1,33700.0,Low Income,Female,No,59,Eligible,Approved,Not Allocated,6.9,878.0
+APP-10617,North,2,32900.0,Low Income,Male,No,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10077,West,1,33700.0,Low Income,Female,Yes,62,Eligible,Pending,Not Allocated,7.1,878.0
+APP-10513,Central,5,25800.0,Low Income,Male,No,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10537,West,1,21400.0,Very Low Income,Female,No,57,Eligible,Pending,Not Allocated,7.9,570.0
+APP-10234,South,2,46600.0,Moderate Income,Male,No,52,Eligible,Approved,Allocated,21.4,1235.0
+APP-10803,East,3,13200.0,Very Low Income,Female,Yes,97,Eligible,Approved,Allocated,12.0,435.0
+APP-11031,North,3,71100.0,High Income,Male,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10822,North,4,40800.0,Low Income,Female,Yes,70,Eligible,Approved,Allocated,15.4,
+APP-10443,South,4,29000.0,Low Income,Female,,78,Eligible,Approved,Allocated,13.6,865.0
+APP-10888,South,3,20400.0,Very Low Income,Male,,70,Eligible,Approved,Allocated,23.7,615.0
+APP-11377,South,2,34800.0,Low Income,Male,No,49,Eligible,Pending,Not Allocated,30.0,940.0
+APP-10215,West,1,18500.0,Very Low Income,Male,Yes,77,Eligible,Approved,Allocated,24.9,498.0
+APP-11389,Central,4,29400.0,Low Income,Female,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11438,West,3,22900.0,Very Low Income,Female,No,81,Eligible,Pending,Not Allocated,3.0,678.0
+APP-10604,North,3,54900.0,Moderate Income,Non-Binary,No,34,Eligible,Approved,Allocated,12.2,1478.0
+APP-11425,Central,2,15400.0,Very Low Income,Female,No,82,Eligible,Approved,Allocated,17.0,455.0
+APP-11156,West,2,17500.0,Very Low Income,Male,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11404,West,2,24300.0,Very Low Income,Male,No,62,Eligible,Approved,Not Allocated,23.5,678.0
+APP-10404,West,1,24900.0,Very Low Income,Male,,73,Eligible,Approved,Allocated,11.1,658.0
+APP-10629,North,5,42100.0,Low-Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,
+APP-10361,South,4,25600.0,Low Income,Female,No,69,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11136,North,3,25900.0,Low Income,Female,Yes,75,Eligible,Approved,Not Allocated,14.3,752.0
+APP-10003,West,1,35300.0,Low Income,Female,No,49,Eligible,Pending,Not Allocated,,917.0
+APP-10971,East,1,28800.0,Low Income,Male,No,59,Eligible,Approved,Not Allocated,19.4,755.0
+APP-10760,West,2,14900.0,Very Low Income,Male,Yes,92,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11033,South,2,31200.0,Low Income,Female,No,53,Eligible,Approved,Allocated,16.0,850.0
+APP-10501,West,2,23400.0,Very Low Income,Female,No,71,Eligible,Approved,Not Allocated,22.1,655.0
+APP-11325,Central,2,28000.0,Low Income,Female,No,58,Eligible,Pending,Not Allocated,13.5,770.0
+APP-10339,South,5,45200.0,Moderate Income,Female,No,60,Eligible,Pending,Not Allocated,2.4,1305.0
+APP-10660,East,4,28500.0,Low Income,Male,No,60,Eligible,Approved,Allocated,13.3,852.0
+APP-10117,West,8,34900.0,Low Income,Male,Yes,88,Eligible,Approved,Allocated,22.0,1152.0
+APP-10966,South,1,31600.0,Low Income,Male,No,57,Eligible,Pending,Not Allocated,14.8,825.0
+APP-11066,West,2,,Low Income,Female,No,58,Eligible,Approved,Allocated,32.0,750.0
+APP-10852,West,5,40500.0,Low Income,Female,No,65,Eligible,Approved,Not Allocated,6.8,1188.0
+APP-10952,East,6,29200.0,Low Income,Female,No,74,Eligible,Approved,Allocated,8.2,940.0
+APP-11340,North,2,27100.0,Low Income,Male,No,72,Eligible,Approved,Allocated,8.3,748.0
+APP-10364,East,3,19600.0,Very Low Income,Male,No,69,Eligible,Approved,Allocated,6.7,595.0
+APP-11270,South,3,43000.0,Low Income,Female,Yes,65,Eligible,Approved,Not Allocated,43.8,1180.0
+APP-10882,East,5,20800.0,Very Low Income,Female,Yes,99,Eligible,Approved,Not Allocated,6.3,695.0
+APP-10581,South,1,38200.0,Low Income,Female,No,49,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11100,South,1,22400.0,Very Low Income,Female,Yes,71,Eligible,Approved,Allocated,44.1,595.0
+APP-10154,South,2,22900.0,very low income,Female,No,69,Eligible,Approved,Allocated,25.7,642.0
+APP-10530,Central,3,29000.0,Low Income,Female,No,58,Eligible,Approved,Allocated,8.9,830.0
+APP-10320,South,2,36700.0,Low Income,Non-Binary,No,49,Eligible,Approved,Allocated,27.2,988.0
+APP-10311,South,3,20900.0,Very Low Income,Male,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10129,North,1,15500.0,Very Low Income,Female,Yes,83,Eligible,Approved,Allocated,10.5,422.0
+APP-11003,Central,3,36100.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11165,North,3,36200.0,Low Income,FEMALE,No,61,Eligible,Approved,Allocated,13.9,1010.0
+APP-10296,East,1,19300.0,Very Low Income,FEMALE,No,63,Eligible,Approved,Allocated,9.6,518.0
+APP-10516,North,2,25600.0,Low Income,Female,Yes,85,Eligible,Approved,Not Allocated,20.0,710.0
+APP-10041,North,4,19400.0,Very Low Income,Male,Yes,87,Eligible,Approved,Allocated,14.8,625.0
+APP-11067,South,1,37700.0,Low Income,Male,No,44,Eligible,Approved,Allocated,12.2,977.0
+APP-10687,East,5,31900.0,Low Income,Male,Yes,79,Eligible,Approved,Allocated,7.4,972.0
+APP-11489,South,4,24500.0,Very Low Income,Male,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10178,South,2,36400.0,Low Income,Female ,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10124,North,6,26300.0,Low Income,Female,No,75,Eligible,Approved,Allocated,11.2,867.0
+APP-10125,South,1,30100.0,Low Income,Male,No,55,Eligible,Approved,Not Allocated,16.0,788.0
+APP-11289,North,6,36200.0,Low Income,Female,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10663,East,2,18000.0,Very Low Income,Male,No,61,Eligible,Pending,Not Allocated,1.0,520.0
+APP-11319,North,1,25000.0,Very-Low Income,Male,No,51,Eligible,Approved,Allocated,13.2,660.0
+APP-10677,North,2,30900.0,Low Income,Female,No,50,Eligible,Approved,Allocated,9.9,842.0
+APP-11286,East,2,31800.0,Low Income,Non-Binary,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11376,Central,2,36000.0,Low Income,Male,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11424,North,1,19500.0,VERY LOW INCOME,Female,Yes,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10944,West,4,37100.0,Low Income,Female,Yes,80,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11485,South,3,22300.0,Very Low Income,Female,Yes,88,Eligible,Approved,Allocated,54.0,662.0
+APP-10699,North,3,36100.0,Low Income,Female,No,53,Eligible,Approved,Not Allocated,10.0,1008.0
+APP-10672,Central,1,22000.0,Very Low Income,Male,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10790,Central,1,23800.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,30.0,630.0
+APP-11144,East,3,25700.0,Low Income,Female,No,74,Eligible,Approved,Allocated,,747.0
+APP-10384,Central,4,25200.0,low income,Female,No,67,Eligible,Pending,Not Allocated,10.9,770.0
+APP-10804,East,2,25000.0,Very Low Income,Male,No,68,Eligible,Approved,Allocated,11.7,695.0
+APP-10406,Central,1,22100.0,Very Low Income,Female,No,62,Eligible,Approved,Allocated,7.5,588.0
+APP-10938,Central,2,26500.0,Low Income,Female,No,46,Eligible,Pending,Not Allocated,7.3,732.0
+APP-10196,South,1,31800.0,Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11463,North,2,21000.0,Very Low Income,Female,No,69,Eligible,Approved,Allocated,2.1,595.0
+APP-10976,South,5,41100.0,Low Income,Female,No,65,Eligible,Approved,Not Allocated,2.9,1202.0
+APP-10806,West,2,16100.0,Very Low Income,Male,No,73,Eligible,Approved,Allocated,10.5,472.0
+APP-11429,East,4,18400.0,Very Low Income,Female,Yes,99,Eligible,Approved,Not Allocated,15.1,600.0
+APP-10258,West,2,13400.0,Very Low Income,Male,No,70,Eligible,Pending,Not Allocated,11.7,405.0
+APP-11106,North,3,67900.0,Moderate Income,Male,No,56,Eligible,Approved,Allocated,5.6,1650.0
+APP-11015,West,3,24300.0,Very Low Income,Male,Yes,82,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11170,South,2,13400.0,Very Low Income,Male,No,75,Eligible,Approved,Allocated,26.8,405.0
+APP-11455,North,5,27300.0,Low Income,Female,No,78,Eligible,Approved,Not Allocated,10.9,858.0
+APP-10713,South,1,,Low Income,Female,No,62,Eligible,Approved,Allocated,44.1,672.0
+APP-10263,North,1,24400.0,Very Low Income,Female,No,61,Eligible,Approved,Allocated,10.2,645.0
+APP-10826,Central,6,30600.0,Low Income,Female,No,80,Eligible,Pending,Not Allocated,6.3,975.0
+APP-10789,South,2,34500.0,Low Income,Male,No,56,Eligible,Approved,Allocated,17.4,932.0
+APP-10955,South,3,46500.0,Moderate Income,Male,Yes,60,Eligible,Approved,Allocated,,1268.0
+APP-10499,Central,1,20700.0,Very Low Income,Female,No,72,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11430,Central,2,27800.0,Low Income,Female,Yes,65,Eligible,Approved,Allocated,41.7,765.0
+APP-10081,Central,1,,Low Income,Female,,52,Eligible,Approved,Not Allocated,35.2,875.0
+APP-11180,East,3,21800.0,Very Low Income,Female,No,75,Eligible,Approved,Allocated,11.8,650.0
+APP-10016,North,1,50700.0,Moderate Income,Female,No,38,Eligible,Pending,Not Allocated,10.7,1302.0
+APP-11288,South,1,31000.0,Low Income,Female,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10801,West,4,44400.0,Low-Income,Male,No,57,Eligible,Approved,Allocated,5.5,1250.0
+APP-10570,South,2,48000.0,Moderate Income,Female,No,44,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11117,North,2,24600.0,VERY LOW INCOME,Female,Yes,86,Eligible,Approved,Allocated,14.1,685.0
+APP-10066,East,2,31900.0,Low Income,Male,No,58,Eligible,Approved,Not Allocated,7.2,868.0
+APP-11074,North,2,33800.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,13.9,915.0
+APP-10383,East,3,38000.0,Low Income,Non-Binary,No,65,Eligible,Pending,Not Allocated,10.0,1055.0
+APP-11344,West,6,52400.0,Moderate Income,Male,Yes,66,Eligible,Approved,Allocated,6.1,1520.0
+APP-11238,South,3,22700.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,23.4,
+APP-10059,North,4,43900.0,Low Income,Female,No,61,Eligible,Approved,Allocated,7.3,1238.0
+APP-11154,West,1,27100.0,Low Income,Female,No,55,Eligible,Approved,Allocated,10.1,712.0
+APP-10089,Central,2,24400.0,Very Low Income,Female,No,62,Eligible,Pending,Not Allocated,12.2,680.0
+APP-10054,Central,5,32500.0,Low Income,Female,No,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10026,West,2,51100.0,Moderate Income,Female,No,49,Eligible,Approved,Allocated,4.4,1347.0
+APP-11134,South,1,25800.0,Low Income,Male,No,54,Eligible,Pending,Not Allocated,8.7,680.0
+APP-10255,North,7,33800.0,Low Income,Male,No,67,Eligible,Approved,Not Allocated,19.3,1090.0
+APP-10676,Central,4,29200.0,Low Income,Male,No,62,Eligible,Approved,Allocated,11.0,870.0
+APP-10871,South,3,21800.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,31.0,650.0
+APP-11355,South,1,25100.0,Low Income,Male,No,62,Eligible,Approved,Allocated,28.8,662.0
+APP-10018,East,5,22300.0,Very Low Income,Male,No,79,Eligible,Approved,Not Allocated,19.6,732.0
+APP-11080,Central,3,46600.0,Moderate Income,Male,No,50,Eligible,Approved,Allocated,54.0,1270.0
+APP-11443,East,2,31700.0,LOW INCOME,Female,No,58,Eligible,Approved,Allocated,10.2,
+APP-10548,East,4,61700.0,Moderate Income,Male,No,53,Eligible,Approved,Allocated,23.1,1650.0
+APP-11335,Central,2,36300.0,Low Income,Female,Yes,76,Eligible,Approved,Allocated,30.6,978.0
+APP-10943,East,4,52000.0,Moderate Income,Female,Yes,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11348,South,2,32700.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,12.8,888.0
+APP-11277,South,1,18900.0,Very Low Income,Female,No,72,Eligible,Pending,Not Allocated,9.7,508.0
+APP-10817,East,2,24800.0,Very-Low Income,Non-Binary,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10983,North,6,63000.0,Moderate Income,Male,No,57,Eligible,Pending,Not Allocated,3.2,1650.0
+APP-10097,East,2,32200.0,Low Income,Female,No,53,Eligible,Pending,Not Allocated,10.0,875.0
+APP-10432,West,3,24800.0,very low income,Non-Binary,No,78,Eligible,Approved,Allocated,11.3,725.0
+APP-11393,North,4,36900.0,Low Income,Male,No,64,Eligible,Approved,Not Allocated,27.0,1062.0
+APP-10563,North,4,26300.0,Low Income,Female,No,56,Eligible,Approved,Allocated,12.6,797.0
+APP-11177,West,2,26700.0,Low Income,Male,No,60,Eligible,Approved,Allocated,5.8,738.0
+APP-10351,East,2,33400.0,Low Income,Male,No,55,Eligible,Approved,Allocated,26.0,905.0
+APP-10680,Central,3,31300.0,Low Income,Non-Binary,No,61,Eligible,Approved,Allocated,18.6,888.0
+APP-11419,South,2,37200.0,Low Income,Male,Yes,59,Eligible,Approved,Allocated,43.9,1000.0
+APP-10138,West,1,26100.0,Low Income,Male,Yes,82,Eligible,Approved,Allocated,15.2,688.0
+APP-10250,Central,1,21700.0,Very Low Income,Female,Yes,78,Eligible,Approved,Allocated,36.9,578.0
+APP-11111,West,4,61000.0,Moderate Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10588,North,3,28600.0,Low Income,Female,No,74,Eligible,Approved,Allocated,10.8,820.0
+APP-10100,North,5,28800.0,Low Income,Female,No,71,Eligible,Approved,Allocated,12.1,895.0
+APP-10718,Central,2,28900.0,Low Income,Male,No,54,Eligible,Pending,Not Allocated,30.0,792.0
+APP-10295,North,1,17100.0,Very Low Income,Male,No,73,Eligible,Approved,Allocated,5.8,462.0
+APP-11414,North,6,48500.0,Moderate Income,Male,Yes,69,Eligible,Approved,Allocated,10.4,1422.0
+APP-10224,South,1,26000.0,Low Income,Female,Yes,66,Eligible,Approved,Allocated,25.9,685.0
+APP-10155,Central,1,17100.0,Very Low Income,Male,No,75,Eligible,Pending,Not Allocated,12.5,462.0
+APP-10483,South,2,53600.0,Moderate Income,Female,No,42,Eligible,Pending,Not Allocated,30.0,1410.0
+APP-10468,Central,2,33100.0,Low Income,Male,Yes,67,Eligible,Approved,Allocated,25.7,898.0
+APP-11303,North,6,42900.0,Low Income,Female,Yes,79,Eligible,Approved,Not Allocated,19.3,1282.0
+APP-11207,West,1,34700.0,Low Income,Male,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11086,South,3,42900.0,Low Income,Female,No,50,Eligible,Pending,Not Allocated,13.3,1178.0
+APP-10948,Central,1,18100.0,Very Low Income,Female,No,61,Eligible,Pending,Not Allocated,12.3,487.0
+APP-11069,South,4,22400.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,31.1,700.0
+APP-11346,South,2,25500.0,Low Income,Non-Binary,No,65,Eligible,Approved,Allocated,37.3,708.0
+APP-11411,North,1,30300.0,Low Income,Male,No,51,Eligible,Approved,Allocated,7.7,792.0
+APP-10529,North,2,32200.0,Low Income,Male,No,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10168,North,6,22200.0,Very Low Income,Female,No,80,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10626,South,3,32100.0,Low Income,Female,,69,Eligible,Approved,Allocated,14.1,908.0
+APP-10787,East,7,52800.0,Moderate Income,Female,No,66,Eligible,Approved,Allocated,16.3,1565.0
+APP-11398,South,2,30800.0,Low Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10024,South,1,32700.0,Low Income,Female,No,39,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11464,East,7,40800.0,Low Income,Female,No,67,Eligible,Approved,Allocated,7.0,1265.0
+APP-10200,West,3,68900.0,Moderate Income,Female,No,48,Eligible,Approved,Not Allocated,14.3,1650.0
+APP-10595,Central,2,32600.0,Low Income,Female,No,52,Eligible,Approved,Allocated,18.5,885.0
+APP-10246,Central,2,13300.0,Very Low Income,Female,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11082,North,5,55600.0,Moderate Income,Male,No,50,Eligible,Pending,Not Allocated,4.0,1565.0
+APP-11353,South,1,18300.0,Very Low Income,Female,Yes,86,Eligible,Pending,Not Allocated,1.8,492.0
+APP-11474,South,4,35200.0,Low Income,Non-Binary,No,72,Eligible,Pending,Not Allocated,8.8,1020.0
+APP-10144,South,3,53200.0,Moderate Income,Female,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10890,South,3,43700.0,Low Income,Male,No,44,Eligible,Pending,Not Allocated,5.2,1198.0
+APP-10675,South,1,12700.0,Very Low Income,Female,No,71,Eligible,Pending,Not Allocated,7.8,352.0
+APP-10378,North,3,51100.0,Moderate Income,Male,No,45,Eligible,Pending,Not Allocated,2.7,1382.0
+APP-10391,Central,1,31500.0,Low Income,Female,No,47,Eligible,Approved,Not Allocated,30.9,822.0
+APP-10704,North,1,19300.0,Very Low Income,Female,Yes,87,Eligible,Approved,Not Allocated,9.4,518.0
+APP-10656,North,1,15500.0,Very Low Income,Male,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10420,West,2,26700.0,Low Income,Female,Yes,80,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10959,North,2,58200.0,Moderate Income,Female,No,50,Eligible,Approved,Not Allocated,9.0,1525.0
+APP-10830,South,1,32900.0,Low Income,Non-Binary,Yes,64,Eligible,Approved,Allocated,32.1,857.0
+APP-10226,South,1,17000.0,Very Low Income,Female,No,64,Eligible,Pending,Not Allocated,,460.0
+APP-10670,South,2,35600.0,Low Income,Female,No,45,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10481,East,1,13500.0,Very Low Income,Female,No,72,Eligible,Pending,Not Allocated,2.8,372.0
+APP-10272,West,4,43500.0,Low Income,Male,Yes,59,Eligible,Approved,Allocated,12.9,1228.0
+APP-10036,West,1,19500.0,Very Low Income,Female,No,67,Eligible,Approved,Allocated,15.7,522.0
+APP-11126,East,6,26900.0,Low Income,Female,No,78,Eligible,Pending,Not Allocated,12.4,882.0
+APP-10743,West,3,29900.0,Low Income,Female,No,54,Eligible,Approved,Allocated,7.3,852.0
+APP-11147,West,6,48300.0,Moderate Income,Male,No,61,Eligible,Approved,Allocated,29.8,1418.0
+APP-10448,West,1,13100.0,Very Low Income,Female,No,79,Eligible,Pending,Not Allocated,6.8,362.0
+APP-10650,South,4,31500.0,Low Income,Female,No,71,Eligible,Pending,Not Allocated,11.0,928.0
+APP-10492,East,1,14500.0,Very Low Income,Male,No,68,Eligible,Approved,Allocated,9.1,397.0
+APP-10249,Central,4,50600.0,Moderate Income,Male,No,46,Eligible,Pending,Not Allocated,7.7,1405.0
+APP-10829,West,3,44400.0,Low Income,Female,No,38,Eligible,Approved,Allocated,17.8,1215.0
+APP-11291,South,4,28300.0,Low Income,Female,No,78,Eligible,Approved,Allocated,7.8,848.0
+APP-10671,North,3,48400.0,Moderate Income,Male,No,49,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10306,Central,4,44600.0,Low Income,Female,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11142,South,1,24300.0,Very Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10972,Central,6,29400.0,Low Income,Male,No,72,Eligible,Approved,Allocated,48.5,945.0
+APP-10377,West,3,45000.0,Low Income,Female,No,60,Eligible,Approved,Not Allocated,21.8,1230.0
+APP-10302,East,4,57000.0,Moderate Income,Male,No,56,Eligible,Approved,Allocated,5.4,1565.0
+APP-11179,West,1,12900.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,,358.0
+APP-10214,South,2,31700.0,Low Income,Female,No,59,Eligible,Approved,Allocated,50.7,862.0
+APP-10582,Central,1,22000.0,Very Low Income,Female,No,60,Eligible,Pending,Not Allocated,6.8,585.0
+APP-10805,South,6,28500.0,Low Income,Female,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10363,South,1,32700.0,Low Income,Male,No,67,Eligible,Pending,Not Allocated,9.6,852.0
+APP-11271,West,1,15300.0,Very Low Income,Female,Yes,81,Eligible,Approved,Not Allocated,18.9,418.0
+APP-11151,West,1,43600.0,Low Income,Male,Yes,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10102,East,2,21100.0,Very Low Income,Male,Yes,89,Eligible,Approved,Allocated,16.4,598.0
+APP-10021,East,1,24900.0,Very Low Income,F,Yes,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10023,South,2,,Low Income,Male,Yes,73,Eligible,Approved,Not Allocated,33.4,835.0
+APP-11018,East,2,30800.0,Low Income,Female,No,59,Eligible,Approved,Allocated,11.4,840.0
+APP-11367,West,3,92000.0,High Income,Male,No,34,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10549,East,3,28000.0,Low Income,Male,No,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10998,North,5,60800.0,Moderate Income,Female,,78,Eligible,Approved,Allocated,10.9,1650.0
+APP-10237,South,2,17800.0,Very Low Income,Male,No,65,Eligible,Approved,Allocated,12.4,515.0
+APP-10881,South,4,29000.0,Low Income,Male,No,64,Eligible,Approved,Not Allocated,5.3,865.0
+APP-11168,East,3,36100.0,Low Income,Male,No,62,Eligible,Approved,Allocated,11.1,1008.0
+APP-10807,Central,1,16100.0,Very Low Income,Female,No,67,Eligible,Approved,Allocated,9.3,438.0
+APP-10172,North,5,92000.0,high income,F,Yes,60,Ineligible,Approved,Allocated,0.0,
+APP-11062,Central,4,29100.0,Low Income,Male,No,69,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11268,South,2,25800.0,Low Income,Male,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10510,West,2,31000.0,Low Income,Male,No,64,Eligible,Approved,Not Allocated,6.4,845.0
+APP-11326,South,4,34000.0,Low Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10569,Central,1,27600.0,Low Income,Female,No,63,Eligible,Approved,Allocated,54.0,725.0
+APP-10993,South,4,24100.0,Very Low Income,Female,Yes,91,Eligible,Approved,Not Allocated,15.1,742.0
+APP-11459,North,2,37100.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11114,East,4,47400.0,Moderate Income,Male,Yes,69,Eligible,Approved,Allocated,30.7,1325.0
+APP-10973,West,5,23100.0,Very Low Income,Female,Yes,95,Eligible,Approved,Not Allocated,35.8,752.0
+APP-11298,North,3,33400.0,Low Income,Female,Yes,71,Eligible,Pending,Not Allocated,8.3,940.0
+APP-10318,North,4,22800.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,40.2,710.0
+APP-10644,South,2,26500.0,Low Income,Female,No,52,Eligible,Pending,Not Allocated,9.0,732.0
+APP-10368,Central,1,38500.0,Low Income,Female,No,43,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11417,North,4,24500.0,Very Low Income,Male,Y,93,Eligible,Approved,Allocated,23.0,752.0
+APP-11192,East,3,53400.0,Moderate Income,Female,No,50,Eligible,Approved,Not Allocated,3.6,1440.0
+APP-10300,North,1,38700.0,Low Income,Male,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11225,South,0,18100.0,Very Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10049,East,1,28900.0,Low Income,female,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10496,South,3,21500.0,Very Low Income,Female,Yes,78,Eligible,Pending,Not Allocated,12.1,642.0
+APP-10260,North,3,49800.0,Moderate Income,Female,No,43,Eligible,Approved,Allocated,13.8,1350.0
+APP-10148,East,4,30300.0,Low Income  ,Female,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10135,Central,5,30000.0,Low Income,Female,No,70,Eligible,Approved,Not Allocated,38.4,925.0
+APP-10957,East,2,35300.0,Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11362,North,2,17900.0,Very Low Income,Male,No,69,Eligible,Approved,Allocated,17.0,518.0
+APP-11428,Central,7,29400.0,Low Income,Male,Yes,90,Eligible,Rejected,Not Allocated,0.0,
+APP-10379,West,2,21800.0,Very Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10616,Central,1,23900.0,Very Low Income,Male,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11259,North,4,22100.0,Very Low Income ,Female,No,70,Eligible,Pending,Not Allocated,2.9,692.0
+APP-10194,East,1,23400.0,Very Low Income,Female,No,64,Eligible,Approved,Allocated,4.6,620.0
+APP-10408,North,2,21700.0,Very Low Income,Male,N,80,Eligible,Approved,Not Allocated,2.8,612.0
+APP-11313,East,3,35400.0,Low Income,Male,No,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11022,South,1,16400.0,Very Low Income,Female,No,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10031,East,2,20200.0,Very Low Income,Female,No,66,Eligible,Approved,Allocated,6.5,575.0
+APP-10004,East,2,17600.0,Very Low Income,Male,No,62,Eligible,Approved,Allocated,11.3,510.0
+APP-10137,East,2,24900.0,Very Low Income,Male,No,61,Eligible,Approved,Allocated,4.7,692.0
+APP-10599,North,4,31200.0,Low Income,Male,Yes,78,Eligible,Rejected,Not Allocated,,0.0
+APP-10769,South,1,41200.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,15.3,1065.0
+APP-10393,South,4,33600.0,Low Income,Female,No,69,Eligible,Pending,Not Allocated,11.9,980.0
+APP-10116,Central,3,42900.0,Low Income,Female,Yes,59,Eligible,Approved,Allocated,22.9,1178.0
+APP-10520,North,3,48900.0,Moderate Income,Non-Binary,Yes,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11357,Central,1,21400.0,Very Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10755,North,5,28500.0,Low Income,Male,No,72,Eligible,Pending,Not Allocated,9.0,888.0
+APP-10814,Central,4,26600.0,Low Income,Female,No,69,Eligible,Pending,Not Allocated,15.1,805.0
+APP-11396,West,5,33400.0,Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10850,East,1,31800.0,Low Income,Female,,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10078,North,3,30300.0,Low Income,Male,No,67,Eligible,Approved,Allocated,10.2,862.0
+APP-10279,West,2,24300.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,13.5,678.0
+APP-10982,West,5,23100.0,Very Low Income,Female,No,76,Eligible,Pending,Not Allocated,19.1,752.0
+APP-10725,East,1,19700.0,Very Low Income,Male,Yes,85,Eligible,Approved,Allocated,8.3,528.0
+APP-10720,West,1,35400.0,Low Income,Female,Yes,60,Eligible,Pending,Not Allocated,26.6,920.0
+APP-11285,South,5,40400.0,Low Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11027,Central,1,23700.0,Very Low Income,Female,Yes,74,Eligible,Pending,Not Allocated,15.8,628.0
+APP-11034,North,1,40800.0,Low Income,Female,No,44,Eligible,Approved,Allocated,18.3,1055.0
+APP-11468,South,3,29600.0,Low Income,Male,Yes,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10819,North,2,27700.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10652,East,1,18700.0,Very Low Income,Male,No,76,Eligible,Pending,Not Allocated,2.7,502.0
+APP-11456,Central,3,37300.0,Low Income,Female,No,61,Eligible,Pending,Not Allocated,12.9,1038.0
+APP-10082,East,2,19800.0,Very Low Income,Male,No,76,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11488,West,3,35500.0,Low Income,Male,Yes,65,Eligible,Rejected,Not Allocated,0.0,
+APP-10017,South,3,25700.0,Low Income,Female,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10203,North,2,60900.0,Moderate Income,Female,No,33,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10969,East,2,44700.0,Low Income,Female,No,45,Eligible,Approved,Not Allocated,15.3,1188.0
+APP-10847,North,3,40100.0,Low Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10141,Central,3,30800.0,Low Income,Male,No,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10579,South,7,64900.0,Moderate Income,Male,No,54,Eligible,Approved,Allocated,5.7,1650.0
+APP-10989,South,3,37100.0,Low Income,Female,No,68,Eligible,Approved,Allocated,,1032.0
+APP-10531,West,1,11100.0,Very Low Income,Male,Yes,76,Eligible,Approved,Allocated,26.0,312.0
+APP-10686,East,6,43000.0,Low Income,Male,No,60,Eligible,Approved,Not Allocated,9.2,1285.0
+APP-10521,East,6,31500.0,Low Income,Male,Yes,97,Eligible,Pending,Not Allocated,13.5,998.0
+APP-10571,East,4,26400.0,Low Income,Female,No,77,Eligible,Approved,Allocated,15.2,800.0
+APP-10940,East,1,23600.0,Very Low Income,Female,No,57,Eligible,Approved,Not Allocated,7.9,625.0
+APP-10163,East,5,42200.0,Low Income,Male,,67,Eligible,Approved,Allocated,18.7,1230.0
+APP-10114,West,2,18300.0,Very Low Income,Male,Yes,92,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10758,East,2,35900.0,Low Income,Female,Yes,69,Eligible,Approved,Allocated,17.3,967.0
+APP-11486,South,6,33600.0,Low Income,Female,No,79,Eligible,Approved,Allocated,16.7,1050.0
+APP-10526,South,2,20600.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,17.4,
+APP-11276,North,2,20300.0,Very Low Income,Male,No,63,Eligible,Approved,Allocated,6.5,578.0
+APP-11061,Central,4,26800.0,Low Income,Female,Y,74,Eligible,Approved,Allocated,6.1,810.0
+APP-11294,West,2,,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10455,North,8,40900.0,Low Income,Female,No,67,Eligible,Approved,Allocated,16.3,1302.0
+APP-10431,North,3,42700.0,Low Income,Male,Yes,61,Eligible,Rejected,Not Allocated,0.0,
+APP-10477,North,2,47100.0,Moderate Income,Male,No,43,Eligible,Approved,Allocated,10.2,1248.0
+APP-10601,North,5,52900.0,Moderate Income,Female,No,57,Eligible,Approved,Allocated,23.2,1497.0
+APP-10580,South,4,46700.0,Moderate Income,Female,No,57,Eligible,Approved,Allocated,22.4,1308.0
+APP-11251,West,2,21200.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,12.3,600.0
+APP-10006,North,2,31800.0,Low Income,Male,No,48,Eligible,Approved,Allocated,10.4,865.0
+APP-10535,West,3,13700.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,6.8,448.0
+APP-10421,West,3,28800.0,Low Income,Male,Yes,70,Eligible,Approved,Not Allocated,4.3,825.0
+APP-11224,Central,2,31000.0,Low Income,Female,No,53,Eligible,Approved,Allocated,23.4,845.0
+APP-10370,North,4,34500.0,Low-Income,Non-Binary,No,52,Eligible,Approved,Allocated,11.3,1002.0
+APP-10273,Central,5,36300.0,Low Income,Male,Yes,75,Eligible,Rejected,Not Allocated,0.0,
+APP-10103,South,1,25800.0,Low Income,Male,Yes,67,Eligible,Approved,Allocated,21.3,680.0
+APP-10276,East,2,20900.0,Very Low Income,Male,No,82,Eligible,Approved,Allocated,13.5,592.0
+APP-10270,South,2,51300.0,Moderate Income,Female,No,45,Eligible,Approved,Allocated,31.6,1352.0
+APP-10354,North,4,47400.0,Moderate Income,Female,No,61,Eligible,Approved,Allocated,9.8,1325.0
+APP-10326,West,3,16700.0,Very Low Income,Female,No,79,Eligible,Approved,Not Allocated,13.2,522.0
+APP-10765,North,3,35600.0,Low Income,Female,No,67,Eligible,Approved,Allocated,11.7,995.0
+APP-10071,West,3,45600.0,Moderate Income,Female,No,51,Eligible,Pending,Not Allocated,19.0,1245.0
+APP-10467,South,1,32400.0,Low Income,Female,No,54,Eligible,Approved,Allocated,9.9,845.0
+APP-10047,South,4,24900.0,Very Low Income,Male,No,79,Eligible,Approved,Allocated,21.1,762.0
+APP-10922,South,1,18600.0,Very-Low Income,Male,No,64,Eligible,Pending,Not Allocated,9.1,500.0
+APP-10658,South,2,16500.0,Very Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10398,South,1,16700.0,Very Low Income,Female,Yes,83,Eligible,Approved,Allocated,7.0,452.0
+APP-10051,Central,6,30800.0,Low Income,Non-Binary,No,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10409,Central,2,19000.0,Very Low Income,Female,No,60,Eligible,Approved,Allocated,3.8,545.0
+APP-10989,South,3,37100.0,Low Income,Female,No,68,Eligible,Approved,Allocated,,1032.0
+APP-10540,North,2,33300.0,Low Income,Female,Yes,71,Eligible,Approved,Allocated,18.3,902.0
+APP-10005,North,2,46400.0,Moderate Income,Female,No,41,Eligible,Approved,Allocated,18.4,1230.0
+APP-10517,South,2,21100.0,Very Low Income,Female,No,62,Eligible,Approved,Allocated,18.0,598.0
+APP-10979,South,1,17100.0,Very Low Income,Female,No,65,Eligible,Approved,Allocated,25.8,462.0
+APP-10933,Central,7,24600.0,Very Low Income,Female,Yes,97,Eligible,Pending,Not Allocated,6.5,860.0
+APP-11382,South,5,27800.0,Low Income,Non-Binary,No,75,Eligible,Approved,Allocated,2.0,870.0
+APP-10533,Central,2,22900.0,Very Low Income,Female,N,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10836,South,2,48700.0,Moderate Income,Female,No,41,Eligible,Approved,Allocated,13.8,1288.0
+APP-10624,South,2,63900.0,Moderate Income,Female,No,44,Eligible,Approved,Allocated,15.4,1650.0
+APP-10886,North,3,33100.0,Low Income,Female,No,50,Eligible,Approved,Allocated,18.9,932.0
+APP-10986,South,7,28700.0,Low Income,Female,No,80,Eligible,Approved,Not Allocated,15.7,962.0
+APP-10475,East,2,28200.0,Low Income,Female,No,61,Eligible,Pending,Not Allocated,4.8,775.0
+APP-11247,North,3,22300.0,Very Low Income,Female,No,64,Eligible,Approved,Allocated,27.2,662.0
+APP-11332,West,3,27000.0,Low Income,Female,No,65,Eligible,Approved,Not Allocated,9.1,780.0
+APP-10359,Central,4,29600.0,Low Income,Non-Binary,Yes,83,Eligible,Pending,Not Allocated,20.1,880.0
+APP-11372,North,6,65600.0,Moderate Income ,Female,No,62,Eligible,Pending,Not Allocated,2.6,1650.0
+APP-10435,North,3,26200.0,Low Income,Female,Yes,75,Eligible,Approved,Not Allocated,8.0,760.0
+APP-10905,South,3,35300.0,Low Income,Female,No,65,Eligible,Pending,Not Allocated,28.9,987.0
+APP-11469,Central,6,33600.0,Low Income,Female,No,66,Eligible,Pending,Not Allocated,8.7,1050.0
+APP-10727,North,2,38900.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,
+APP-11254,North,2,28800.0,Low Income,Female,,69,Eligible,Approved,Allocated,15.6,790.0
+APP-10665,North,2,23100.0,Very Low Income,Female,No,57,Eligible,Approved,Allocated,28.9,648.0
+APP-10908,South,1,19900.0,Very Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11336,East,5,27600.0,Low Income,Female,No,75,Eligible,Pending,Not Allocated,16.1,865.0
+APP-10682,South,1,20300.0,Very Low Income,Female,No,85,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10598,North,3,12900.0,Very Low Income,Female,Yes,96,Eligible,Approved,Allocated,14.0,428.0
+APP-11019,Central,3,35800.0,Low Income,Male,Yes,74,Eligible,Approved,Not Allocated,13.6,1000.0
+APP-10899,North,3,33600.0,Low Income,Male,No,46,Eligible,Pending,Not Allocated,6.3,945.0
+APP-10896,North,2,38900.0,Low Income,Female,Yes,65,Eligible,Pending,Not Allocated,2.0,1042.0
+APP-10189,East,3,20500.0,Very Low Income,Male,No,76,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11275,South,3,63800.0,Moderate Income,Male,No,45,Eligible,Approved,Not Allocated,20.6,1650.0
+APP-10813,North,2,24200.0,Very Low Income,Male,No,61,Eligible,Pending,Not Allocated,6.7,675.0
+APP-10825,East,4,24300.0,Very Low Income,Male,No,81,Eligible,Pending,Not Allocated,21.4,748.0
+APP-11441,Central,2,36100.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10344,South,3,29500.0,Low Income,Female,Yes,74,Eligible,Pending,Not Allocated,6.3,842.0
+APP-10802,North,3,27200.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10008,Central,3,32600.0,Low Income,Male,No,54,Eligible,Pending,Not Allocated,21.7,920.0
+APP-10828,South,1,21600.0,Very Low Income,Male,N,57,Eligible,Pending,Not Allocated,13.5,575.0
+APP-11032,East,4,,Moderate Income,Female,No,48,Eligible,Pending,Not Allocated,9.9,1400.0
+APP-10216,South,8,37900.0,Low Income,Female,No,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10110,North,3,36700.0,Low Income,Male,No,57,Eligible,Approved,Not Allocated,15.1,1022.0
+APP-10220,West,1,24100.0,Very Low Income,Male,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10811,Central,3,25100.0,Low Income,Male,No,79,Eligible,Approved,Allocated,27.5,732.0
+APP-11166,West,2,34600.0,Low Income,Female,No,68,Eligible,Approved,Allocated,13.0,935.0
+APP-11241,Central,2,43800.0,Low Income,Female,Yes,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10619,West,1,12900.0,Very Low Income,Female,Yes,84,Eligible,Pending,Not Allocated,4.0,358.0
+APP-10028,East,2,17800.0,Very Low Income,Female,No,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10231,West,2,33200.0,Low Income,Male,No,46,Eligible,Approved,Allocated,9.2,900.0
+APP-10507,Central,2,22000.0,Very Low Income,Male,Yes,87,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10416,South,4,44000.0,Low Income,Male,No,43,Eligible,Approved,Not Allocated,27.1,1240.0
+APP-10053,Central,4,27800.0,Low Income,female,No,67,Eligible,Approved,Allocated,22.6,835.0
+APP-11287,North,6,34100.0,Low Income,Female,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10949,Central,1,16700.0,Very Low Income,Non-Binary,Yes,77,Eligible,Approved,Allocated,28.1,452.0
+APP-10587,North,1,20700.0,Very Low Income,Male,No,73,Eligible,Approved,Allocated,9.5,552.0
+APP-10897,South,1,31900.0,Low Income,Male,No,43,Eligible,Pending,Not Allocated,14.3,832.0
+APP-10559,West,3,26500.0,Low Income,Female,No,76,Eligible,Approved,Not Allocated,13.4,768.0
+APP-10197,West,1,15300.0,Very Low Income,Female,N,67,Eligible,Rejected,Not Allocated,0.0,
+APP-10784,South,1,49900.0,Moderate Income,Male,Yes,62,Eligible,Pending,Not Allocated,12.6,1282.0
+APP-11043,South,4,,Low Income,FEMALE,No,71,Eligible,Approved,Allocated,27.4,947.0
+APP-11334,Central,2,46700.0,Moderate Income,Male,No,54,Eligible,Approved,Allocated,19.8,1238.0
+APP-10065,South,4,47300.0,Moderate Income,Male,No,50,Eligible,Approved,Allocated,17.2,1322.0
+APP-10863,East,2,55900.0,Moderate Income,Female,No,35,Eligible,Pending,Not Allocated,4.5,1467.0
+APP-10070,Central,2,17800.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,20.9,515.0
+APP-10753,East,3,57700.0,Moderate Income,Female,No,50,Eligible,Pending,Not Allocated,1.9,1547.0
+APP-11213,North,2,13500.0,Very Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11051,Central,2,34800.0,Low Income,Female,Yes,83,Eligible,Approved,Allocated,13.5,940.0
+APP-10380,South,3,26200.0,Low Income,Male,Yes,83,Eligible,Approved,Allocated,27.5,760.0
+APP-10268,West,2,29700.0,Low-Income,Female,No,54,Eligible,Pending,Not Allocated,14.3,812.0
+APP-10837,Central,2,18600.0,Very Low Income,Female,No,69,Eligible,Pending,Not Allocated,10.8,
+APP-10646,Central,4,34000.0,Low Income,Female,No,73,Eligible,Pending,Not Allocated,12.4,990.0
+APP-10139,South,8,42200.0,Low Income,Male,Yes,79,Eligible,Pending,Not Allocated,12.1,1335.0
+APP-10575,Central,5,36400.0,Low Income,Female,No,69,Eligible,Approved,Not Allocated,11.4,1085.0
+APP-10219,East,7,51200.0,Moderate Income,Female,No,69,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10645,North,2,20300.0,very low income,Male,Yes,82,Eligible,Approved,Not Allocated,12.9,
+APP-10358,East,2,29000.0,Low Income,Female,No,59,Eligible,Approved,Allocated,8.3,795.0
+APP-10484,East,2,25900.0,LOW INCOME,Non-Binary,No,66,Eligible,Approved,Allocated,10.0,718.0
+APP-11055,Central,1,31800.0,Low Income,Male,Yes,69,Eligible,Pending,Not Allocated,26.2,
+APP-10236,West,5,29400.0,Low Income  ,Female,No,65,Eligible,Approved,Allocated,24.5,910.0
+APP-11253,North,2,65600.0,MODERATE INCOME,Female,No,36,Eligible,Pending,Not Allocated,4.5,1650.0
+APP-10238,North,1,24400.0,Very Low Income,Female,No,58,Eligible,Approved,Allocated,3.3,645.0
+APP-11495,East,1,52400.0,Moderate Income,Male,No,35,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11214,West,2,46100.0,Moderate Income,Male,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11036,West,4,27700.0,Low Income,Male,Yes,80,Eligible,Approved,Allocated,7.1,832.0
+APP-11408,West,1,63200.0,Moderate Income,Female,No,49,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11137,Central,6,61700.0,Moderate Income,Female,No,53,Eligible,Approved,Not Allocated,17.7,1650.0
+APP-10101,North,1,18300.0,very low income,Male,No,64,Eligible,Approved,Allocated,26.7,492.0
+APP-10591,North,4,46900.0,Moderate Income,Female,Yes,62,Eligible,Approved,Allocated,20.1,1312.0
+APP-10333,North,3,27600.0,Low Income,Female,No,54,Eligible,Pending,Not Allocated,5.5,795.0
+APP-11005,West,1,,Very Low Income,Male,Yes,78,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10607,North,5,48000.0,Moderate Income ,Male,Y,59,Eligible,Approved,Allocated,6.8,1375.0
+APP-11017,North,1,21400.0,Very Low Income,Male,No,63,Eligible,Approved,Not Allocated,9.2,570.0
+APP-11057,West,3,39700.0,Low Income,Female,No,60,Eligible,Approved,Allocated,16.0,1098.0
+APP-11091,Central,4,34800.0,Low Income,Male,No,59,Eligible,Approved,Allocated,25.8,1010.0
+APP-10259,East,1,38600.0,Low Income,Male,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10767,West,3,28900.0,Low Income,Male,No,66,Eligible,Approved,Not Allocated,25.7,828.0
+APP-11360,East,1,27000.0,Low Income,Female,,70,Eligible,Approved,Allocated,18.2,710.0
+APP-11437,South,4,36900.0,Low Income,Male,No,50,Eligible,Approved,Not Allocated,25.9,1062.0
+APP-11405,East,3,24400.0,Very Low Income,Male,No,77,Eligible,Approved,Allocated,11.9,715.0
+APP-11263,South,3,29100.0,Low Income,Male,Yes,71,Eligible,Approved,Allocated,3.8,832.0
+APP-10438,West,4,22400.0,Very Low Income, Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10553,East,1,21000.0,Very Low Income,Male,No,65,Eligible,Approved,Allocated,6.0,560.0
+APP-10800,Central,2,20700.0,Very Low Income,Female,No,76,Eligible,Approved,Allocated,17.6,588.0
+APP-10073,North,4,30800.0,Low Income,female,No,71,Eligible,Approved,Allocated,9.5,910.0
+APP-10782,East,2,28300.0,Low Income,Male,No,67,Eligible,Approved,Allocated,10.7,778.0
+APP-10085,South,7,42300.0,LOW INCOME,Non-Binary,No,60,Eligible,Approved,Allocated,38.6,1302.0
+APP-10545,East,5,41600.0,Low Income,Non-Binary,,49,Eligible,Approved,Allocated,10.2,1215.0
+APP-10821,West,5,26900.0,Low Income,Male,No,64,Eligible,Pending,Not Allocated,7.2,847.0
+APP-11190,West,2,,Low Income,Female,No,70,Eligible,Approved,Allocated,16.3,745.0
+APP-11358,South,1,46900.0,Moderate Income,Male,Yes,50,Eligible,Pending,Not Allocated,8.0,1208.0
+APP-10029,East,4,29000.0,Low Income,Male,Yes,78,Eligible,Approved,Not Allocated,15.6,865.0
+APP-11138,South,4,41600.0,Low Income,Female,Yes,64,Eligible,Pending,Not Allocated,4.4,1180.0
+APP-10848,Central,2,14800.0,Very Low Income,Male,No,71,Eligible,Approved,Allocated,26.9,440.0
+APP-11366,North,3,29300.0,Low Income,Male,No,55,Eligible,Approved,Allocated,8.5,837.0
+APP-10981,South,2,41100.0,Low Income,Female,No,52,Eligible,Pending,Not Allocated,11.4,1098.0
+APP-10369,North,1,20800.0,Very Low Income,Female,N,65,Eligible,Approved,Allocated,13.0,555.0
+APP-10451,West,1,28600.0,LOW INCOME,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10278,East,2,37700.0,Low Income,Female,No,45,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10726,West,2,59600.0,moderate income,Male,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11465,Central,5,,Very Low Income,Female,No,69,Eligible,Approved,Not Allocated,21.6,795.0
+APP-10702,North,1,19900.0,Very Low Income,Male,No,72,Eligible,Approved,Allocated,14.4,532.0
+APP-10866,East,1,56500.0,Moderate Income,Non-Binary,No,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10572,West,3,40600.0,Low Income,Female,Yes,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11163,South,1,54800.0,Moderate Income,Male,Yes,53,Eligible,Approved,Allocated,35.7,1405.0
+APP-10697,South,2,45400.0,Moderate Income,Male,No,40,Eligible,Pending,Not Allocated,10.8,
+APP-10133,North,3,66300.0,Moderate Income,Female,No,46,Eligible,Approved,Allocated,4.9,1650.0
+APP-10092,West,8,62900.0,Moderate Income ,Male,No,56,Eligible,Pending,Not Allocated,4.5,1650.0
+APP-11237,Central,8,35400.0,Low Income,Female,No,81,Eligible,Pending,Not Allocated,16.3,1165.0
+APP-10594,South,3,28900.0,Low Income,Female,No,74,Eligible,Approved,Not Allocated,25.6,828.0
+APP-10628,West,1,18800.0,Very Low Income,Female,Yes,69,Eligible,Pending,Not Allocated,12.2,505.0
+APP-10429,South,3,30300.0,Low Income,Female,No,60,Eligible,Approved,Not Allocated,25.4,862.0
+APP-11073,North,2,33900.0,Low Income,Female,No,68,Eligible,Approved,Allocated,7.7,918.0
+APP-11182,South,4,65000.0,Moderate Income,Male,No,51,Eligible,Pending,Not Allocated,9.3,1650.0
+APP-10345,South,6,41500.0,Low Income  ,Male,No,63,Eligible,Approved,Allocated,11.7,1248.0
+APP-11328,West,1,25000.0,Very Low Income,Female,No,47,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10833,North,3,21400.0,Very Low Income,Male,Yes,88,Eligible,Approved,Allocated,2.0,640.0
+APP-10694,South,3,33500.0,Low Income,Female,Yes,72,Eligible,Pending,Not Allocated,9.3,942.0
+APP-10426,East,1,23600.0,Very Low Income,Female,No,59,Eligible,Approved,Allocated,12.8,625.0
+APP-11199,West,4,23600.0,Very Low Income,Female,No,60,Eligible,Approved,Allocated,14.8,730.0
+APP-10823,South,3,20100.0,VERY LOW INCOME,Male,No,74,Eligible,Approved,Not Allocated,19.9,608.0
+APP-10181,South,2,34500.0,Low Income,female,Yes,59,Eligible,Approved,Allocated,9.0,932.0
+APP-10708,West,5,37700.0,Low Income,Male,Yes,94,Eligible,Pending,Not Allocated,23.3,1118.0
+APP-11293,East,3,22200.0,Very Low Income,Female,No,74,Eligible,Approved,Not Allocated,6.4,660.0
+APP-11476,East,1,43400.0,Low Income,Female,Yes,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10107,South,1,21000.0,Very Low Income,Male,No,77,Eligible,Approved,Allocated,18.6,560.0
+APP-10519,Central,1,33200.0,Low Income,Female,Yes,62,Eligible,Pending,Not Allocated,14.2,865.0
+APP-10715,South,4,21100.0,Very Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10095,West,4,28200.0,Low Income,Female,No,56,Eligible,Rejected,Not Allocated,,0.0
+APP-10775,West,6,36100.0,Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10853,North,3,33500.0,Low Income,Male,No,56,Eligible,Approved,Allocated,2.0,942.0
+APP-11305,West,3,32600.0,Low Income,Male,No,54,Eligible,Approved,Allocated,30.0,920.0
+APP-10376,South,3,31000.0,Low Income,Female,No,63,Eligible,Pending,Not Allocated,8.8,880.0
+APP-10820,South,2,24600.0,Very Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10027,North,2,25100.0,Low Income,Male,No,60,Eligible,Approved,Allocated,3.4,697.0
+APP-10719,North,5,37900.0,Low Income,Female,Yes,78,Eligible,Approved,Allocated,23.2,1122.0
+APP-10954,Central,2,19700.0,Very Low Income,Male,Yes,75,Eligible,Approved,Allocated,33.9,562.0
+APP-11203,North,1,30700.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11460,East,4,43900.0,Low Income,Male,No,55,Eligible,Approved,Allocated,16.4,1238.0
+APP-11351,Central,3,45900.0,Moderate Income,Male,Yes,56,Eligible,Rejected,Not Allocated,,0.0
+APP-10346,East,2,50800.0,Moderate Income,Male,Yes,50,Eligible,Pending,Not Allocated,7.9,1340.0
+APP-11432,East,3,27600.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,,0.0
+APP-10233,East,3,30400.0,Low Income,Female,Yes,69,Eligible,Approved,Not Allocated,16.4,865.0
+APP-11431,South,3,29400.0,Low Income,Male,Yes,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10872,South,4,43000.0,Low Income,Male,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10567,South,1,24700.0,Very Low Income,Female,No,65,Eligible,Pending,Not Allocated,15.0,652.0
+APP-11040,South,4,34700.0,Low Income,Non-Binary,No,54,Eligible,Approved,Not Allocated,11.1,1007.0
+APP-10696,East,2,14100.0,Very Low Income,Non-Binary,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10062,South,1,50800.0,Moderate Income,Female,Yes,59,Eligible,Pending,Not Allocated,4.7,1305.0
+APP-11127,North,1,40000.0,Low Income,Male,No,48,Eligible,Approved,Allocated,8.5,1035.0
+APP-10289,South,1,17500.0,Very Low Income,Female,No,66,Eligible,Approved,Allocated,5.4,
+APP-10310,South,1,33400.0,Low Income,Male,Yes,70,Eligible,Approved,Allocated,51.2,
+APP-10547,North,1,11700.0,Very Low Income,Male,No,73,Eligible,Pending,Not Allocated,4.0,328.0
+APP-10917,South,2,20800.0,Very Low Income,Non-Binary,No,67,Eligible,Pending,Not Allocated,12.4,590.0
+APP-10365,Central,7,44100.0,Low Income,Male,No,67,Eligible,Approved,Allocated,33.9,1348.0
+APP-10284,North,3,34600.0,Low Income,Non-Binary,No,63,Eligible,Approved,Allocated,12.4,970.0
+APP-10884,North,2,61900.0,Moderate Income,Male,Yes,66,Eligible,Approved,Allocated,25.2,1617.0
+APP-10904,East,2,43600.0,Low Income,Male,No,43,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10079,South,3,47000.0,Moderate Income,Female,No,58,Eligible,Approved,Allocated,15.8,1280.0
+APP-11200,North,4,32800.0,Low Income,Non-Binary,No,71,Eligible,Approved,Allocated,23.5,960.0
+APP-10502,East,2,39800.0,Low Income,Female,No,60,Eligible,Pending,Not Allocated,5.5,1065.0
+APP-11233,North,1,60000.0,Moderate Income,Female,No,41,Eligible,Pending,Not Allocated,15.8,1535.0
+APP-11044,East,3,30100.0,Low Income,Male,No,69,Eligible,Approved,Allocated,9.8,
+APP-10528,South,7,33400.0,Low Income,Female,No,76,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10222,East,1,14900.0,Very Low Income,Female,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11379,South,3,20800.0,Very Low Income,Female,,73,Eligible,Approved,Allocated,15.3,625.0
+APP-11193,South,1,38400.0,Low Income,Female,Yes,64,Eligible,Pending,Not Allocated,8.4,995.0
+APP-11426,Central,5,41100.0,Low Income,Female,No,59,Eligible,Approved,Allocated,21.9,1202.0
+APP-10500,Central,2,23500.0,Very Low Income,Female,Yes,78,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10282,South,5,,Low Income,Female,No,56,Eligible,Approved,Allocated,32.7,1200.0
+APP-10495,South,4,35600.0,Low Income,Male,Yes,76,Eligible,Approved,Allocated,,1030.0
+APP-10962,East,5,40800.0,Low Income,Female,No,60,Eligible,Pending,Not Allocated,12.2,1195.0
+APP-10038,North,3,22700.0,Very Low Income,Female,No,73,Eligible,Pending,Not Allocated,4.9,672.0
+APP-10707,South,2,23400.0,Very Low Income,Male,No,58,Eligible,Approved,Allocated,14.0,655.0
+APP-11125,East,2,22000.0,Very Low Income,Female,No,67,Eligible,Rejected,Not Allocated,0.0,
+APP-10489,Central,2,70500.0,High Income,Female,No,37,Eligible,Pending,Not Allocated,5.5,1650.0
+APP-11205,South,4,19400.0,Very Low Income,Male,No,89,Eligible,Approved,Allocated,28.6,625.0
+APP-11407,West,7,40900.0,Low Income,Non-Binary,Yes,84,Eligible,Approved,Allocated,21.8,1268.0
+APP-10647,East,2,31700.0,Low Income,Female,No,59,Eligible,Approved,Not Allocated,7.7,862.0
+APP-10106,South,3,54100.0,Moderate Income,Male,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11320,North,2,32800.0,Low Income,Female,No,45,Eligible,Approved,Allocated,6.0,890.0
+APP-10734,East,5,25700.0,Low Income,Male,No,79,Eligible,Approved,Not Allocated,8.4,817.0
+APP-11436,North,1,21200.0,Very Low Income,Male,No,60,Eligible,Pending,Not Allocated,7.6,565.0
+APP-10126,South,3,40300.0,Low Income,Male,No,55,Eligible,Pending,Not Allocated,4.8,1112.0
+APP-10939,North,3,25000.0,Very Low Income, Male,No,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11042,West,4,25800.0,Low Income,Male,No,65,Eligible,Pending,Not Allocated,15.6,785.0
+APP-10945,North,2,18500.0,Very Low Income,Male,Yes,81,Eligible,Approved,Allocated,40.1,532.0
+APP-11048,North,2,52000.0,Moderate Income,Male,No,47,Eligible,Pending,Not Allocated,1.1,1370.0
+APP-10385,West,1,61700.0,Moderate Income,Female,No,29,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10909,South,7,56900.0,Moderate Income,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10162,East,3,37700.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,4.4,1048.0
+APP-11257,North,2,21500.0,Very Low Income,Male,Yes,79,Eligible,Approved,Not Allocated,9.3,608.0
+APP-10490,Central,4,31500.0,Low Income,Female,Yes,75,Eligible,Rejected,Not Allocated,,
+APP-10712,East,4,29800.0,Low Income,Non-Binary,Yes,78,Eligible,Approved,Not Allocated,4.6,885.0
+APP-10809,South,1,46500.0,Moderate Income,Female,No,51,Eligible,Approved,Allocated,10.7,
+APP-10374,West,4,56200.0,moderate income,Female,No,41,Eligible,Pending,Not Allocated,9.8,1545.0
+APP-10442,Central,2,23300.0,Very Low Income,Non-Binary,No,63,Eligible,Approved,Allocated,9.7,652.0
+APP-10632,Central,1,45400.0,Moderate Income,Male,Yes,55,Eligible,Pending,Not Allocated,30.0,1170.0
+APP-11235,East,6,38300.0,Low Income,Male,No,56,Eligible,Approved,Allocated,13.0,1168.0
+APP-11169,North,4,52100.0,Moderate Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10640,South,5,83100.0,High Income,Male,No,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11035,North,4,,Moderate Income,Non-Binary,No,56,Eligible,Pending,Not Allocated,10.1,1360.0
+APP-11216,South,2,29300.0,Low Income,Male,Yes,78,Eligible,Pending,Not Allocated,4.3,802.0
+APP-10375,North,4,67700.0,Moderate Income,Female,No,60,Eligible,Approved,Not Allocated,10.9,1650.0
+APP-10724,West,2,55100.0,Moderate Income,Male,Yes,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10859,East,3,43100.0,Low Income,Male,No,62,Eligible,Pending,Not Allocated,4.7,1182.0
+APP-10907,West,2,20800.0,Very Low Income,Non-Binary,No,77,Eligible,Approved,Allocated,14.2,590.0
+APP-10995,South,3,22400.0,Very Low Income,Male,No,59,Eligible,Pending,Not Allocated,16.0,665.0
+APP-10119,Central,3,39700.0,Low Income,Female,Yes,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10913,East,2,20600.0,Very Low Income,Female,Yes,79,Eligible,Approved,Allocated,11.6,585.0
+APP-11009,South,4,38700.0,Low Income,Male,No,53,Eligible,Approved,Allocated,12.8,1108.0
+APP-11478,West,1,32500.0,Low Income,Male,Yes,72,Eligible,Approved,Allocated,5.5,848.0
+APP-11217,North,3,33600.0,Low Income,Female,No,58,Eligible,Approved,Not Allocated,10.3,945.0
+APP-10838,South,2,40800.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10415,East,2,31700.0,Low Income,Female,No,54,Eligible,Approved,Allocated,14.5,862.0
+APP-10887,East,2,42700.0,Low Income,Female,No,66,Eligible,Approved,Not Allocated,23.7,1138.0
+APP-10818,South,2,30500.0,Low Income,Female,No,52,Eligible,Approved,Allocated,27.3,832.0
+APP-10771,North,1,21800.0,Very Low Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10128,Central,3,53400.0,Moderate Income,Female,No,44,Eligible,Approved,Not Allocated,24.6,1440.0
+APP-11264,South,2,33500.0,Low Income,Female,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11178,North,1,,Moderate Income,Male,No,42,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10573,South,1,24500.0,Very Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11480,South,7,45600.0,Moderate Income,Female,Yes,78,Eligible,Approved,Allocated,17.4,1385.0
+APP-10951,East,2,32700.0,Low Income,Male,No,59,Eligible,Approved,Allocated,5.6,888.0
+APP-10673,North,1,22400.0,Very Low Income,Male,No,58,Eligible,Approved,Not Allocated,18.3,595.0
+APP-11162,North,5,27400.0,Low Income,Female,No,72,Eligible,Approved,Allocated,15.2,860.0
+APP-10400,West,4,31000.0,Low Income,Female,No,67,Eligible,Pending,Not Allocated,13.0,915.0
+APP-10792,East,2,13700.0,Very Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10552,Central,2,24500.0,Very Low Income,Female,Yes,78,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10565,South,1,35300.0,Low Income,Female,Yes,60,Eligible,Pending,Not Allocated,4.9,917.0
+APP-10175,East,4,45700.0,Moderate Income,Female,No,57,Eligible,Approved,Allocated,9.6,1282.0
+APP-10321,East,1,,Very Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10525,West,2,28400.0,Low Income,Non-Binary,Yes,79,Eligible,Approved,Allocated,5.4,780.0
+APP-10470,Central,1,12400.0,Very Low Income,Non-Binary,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11239,Central,6,55700.0,Moderate Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10043,North,3,19000.0,Very Low Income,Female,No,88,Eligible,Approved,Allocated,18.7,580.0
+APP-10856,North,1,20200.0,Very Low Income,Female,No,58,Eligible,Approved,Allocated,12.3,540.0
+APP-10080,North,3,27500.0,Low Income,Female,No,63,Eligible,Approved,Allocated,14.9,792.0
+APP-10534,East,7,45300.0,Moderate Income,Female,Yes,71,Eligible,Approved,Not Allocated,14.7,1378.0
+APP-11053,Central,4,35400.0,Low Income,Female,Yes,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10458,South,2,21100.0,Very Low Income,Female,No,65,Eligible,Approved,Not Allocated,31.0,598.0
+APP-10291,North,1,57200.0,Moderate Income,Female,No,47,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10371,North,4,67500.0,Moderate Income,Male,No,49,Eligible,Pending,Not Allocated,,1650.0
+APP-10266,West,2,37300.0,Low Income,Male,No,57,Eligible,Approved,Allocated,35.1,1002.0
+APP-10589,North,4,20400.0,Very Low Income,Male,Yes,87,Eligible,Approved,Allocated,14.5,650.0
+APP-10478,East,2,28100.0,Low Income,Female,No,55,Eligible,Pending,Not Allocated,6.8,772.0
+APP-10165,North,8,40600.0,Low Income,Female,No,71,Eligible,Approved,Allocated,11.6,1295.0
+APP-11304,East,6,30000.0,Low Income,Male,No,71,Eligible,Approved,Not Allocated,10.0,960.0
+APP-10094,East,1,35400.0,Low Income,Female,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10474,Central,3,19500.0,Very Low Income,Female,No,71,Eligible,Approved,Allocated,29.1,592.0
+APP-10198,Central,1,21100.0,Very Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10186,East,5,32300.0,Low Income,Female,No,73,Eligible,Approved,Not Allocated,8.5,982.0
+APP-11014,North,3,19800.0,Very Low Income,Female,Yes,99,Eligible,Approved,Allocated,6.5,600.0
+APP-10422,West,1,19600.0,Very Low Income,Male,No,67,Eligible,Pending,Not Allocated,5.9,525.0
+APP-10452,East,1,84000.0,High Income,Female,No,36,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10257,Central,6,31700.0,Low Income,Male,Yes,82,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10136,South,1,38000.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11075,Central,1,13100.0,Very Low Income,Female,No,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11173,East,4,24600.0,Very Low Income,Male,No,69,Eligible,Approved,Allocated,8.4,755.0
+APP-10052,West,3,33000.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11451,South,4,21800.0,Very Low Income,Female,Yes,96,Eligible,Approved,Allocated,11.0,685.0
+APP-10584,South,5,48400.0,Moderate Income,Female,Yes,67,Eligible,Pending,Not Allocated,2.1,1385.0
+APP-11115,East,2,30700.0,Low Income,Female,Yes,77,Eligible,Approved,Allocated,17.2,838.0
+APP-11374,South,2,15300.0,Very Low Income,Female,No,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11420,Central,2,23400.0,Very Low Income,Female,Y,82,Eligible,Approved,Allocated,14.6,655.0
+APP-10050,North,3,31700.0,Low Income,Female,No,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10342,South,2,26200.0,Low Income,Female,No,69,Eligible,Approved,Allocated,17.3,725.0
+APP-10798,East,1,19900.0,Very Low Income,Female,No,72,Eligible,Approved,Allocated,6.1,532.0
+APP-10931,North,3,23100.0,Very Low Income,Male,No,49,Eligible,Approved,Allocated,2.0,682.0
+APP-10527,South,4,24800.0,Very Low Income,Female,No,76,Eligible,Approved,Allocated,14.9,760.0
+APP-11242,West,1,34100.0,Low Income,Non-Binary,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11090,South,4,36600.0,Low Income,Female,Yes,83,Eligible,Approved,Allocated,4.9,1055.0
+APP-10683,North,1,32100.0,Low Income,Male,Yes,62,Eligible,Pending,Not Allocated,5.8,838.0
+APP-10463,West,4,62000.0,Moderate Income,Non-Binary,No,53,Eligible,Approved,Allocated,7.1,1650.0
+APP-11371,Central,5,49100.0,Moderate Income,Female,Yes,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10977,East,1,26500.0,Low Income,Female,Yes,61,Eligible,Approved,Allocated,10.8,698.0
+APP-11307,West,4,33200.0,Low Income,Female,No,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10469,South,2,33500.0,Low Income,Male,Yes,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10648,East,2,18300.0,Very Low Income,Female,Yes,82,Eligible,Approved,Not Allocated,17.9,528.0
+APP-11105,Central,1,9500.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,8.5,272.0
+APP-10034,Central,2,28200.0,Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10417,South,5,35000.0,Low Income,Female,Yes,83,Eligible,Approved,Allocated,19.8,1050.0
+APP-10810,North,2,32400.0,Low Income,Female,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10248,Central,2,31200.0,Low Income,Male,No,65,Eligible,Approved,Allocated,6.6,850.0
+APP-10968,South,1,17800.0,Very Low Income,Female,No,60,Eligible,Approved,Allocated,35.9,480.0
+APP-10858,South,1,37600.0,Low Income,Female,No,49,Eligible,Approved,Allocated,19.7,975.0
+APP-10440,North,1,28600.0,Low Income,Female,No,58,Eligible,Pending,Not Allocated,,750.0
+APP-11361,Central,5,23800.0,Very Low Income,Female,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11157,North,4,37000.0,Low Income,Female,No,71,Eligible,Approved,Allocated,22.4,1065.0
+APP-10217,South,1,17800.0,Very Low Income,Female,No,61,Eligible,Approved,Allocated,27.4,480.0
+APP-11499,South,2,27200.0,Low Income,Male,Yes,72,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11104,Central,2,23300.0,Very Low Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10544,East,1,29000.0,Low Income,Male,Yes,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11132,South,4,16300.0,Very Low Income,Female,Yes,95,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11149,Central,2,26800.0,Low Income,Male,Yes,70,Eligible,Pending,Not Allocated,16.3,740.0
+APP-10494,North,1,16600.0,Very Low Income,Male,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11215,West,1,39700.0,Low Income,Female,Yes,52,Eligible,Approved,Allocated,6.4,1028.0
+APP-10465,Central,3,62100.0,Moderate Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10392,South,2,34400.0,Low Income,Male,Yes,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11331,East,2,19100.0,Very Low Income,Female,Yes,87,Eligible,Approved,Allocated,8.8,548.0
+APP-10439,West,2,24200.0,Very Low Income,Female,No,71,Eligible,Approved,Allocated,15.3,675.0
+APP-11475,South,2,,Very Low Income,FEMALE,No,72,Eligible,Approved,Allocated,14.8,630.0
+APP-10583,South,2,20700.0,Very Low Income,Female,No,72,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10903,North,2,36800.0,Low Income,Female,Yes,77,Eligible,Approved,Allocated,8.2,990.0
+APP-10861,West,1,43700.0,Low Income,Male,Yes,67,Eligible,Approved,Allocated,16.4,1128.0
+APP-10327,East,1,30700.0,Low Income,Male,No,50,Eligible,Approved,Allocated,9.8,802.0
+APP-10227,Central,3,53600.0,Moderate Income,Male,No,39,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11274,North,2,29300.0,Low Income,Female,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10466,South,3,41700.0,Low Income  ,Female,No,58,Eligible,Approved,Not Allocated,47.9,1148.0
+APP-10554,East,6,41400.0,Low Income,Male,No,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10062,South,1,50800.0,Moderate Income,Female,Yes,59,Eligible,Pending,Not Allocated,4.7,1305.0
+APP-10419,East,2,23700.0,Very Low Income,Male,Yes,76,Eligible,Approved,Allocated,26.6,662.0
+APP-11188,North,2,21300.0,Very Low Income,Female,Yes,82,Eligible,Approved,Allocated,10.2,602.0
+APP-10709,South,2,18600.0,Very Low Income,Female,Yes,94,Eligible,Approved,Not Allocated,,535.0
+APP-11486,South,6,33600.0,Low Income,Female,No,79,Eligible,Approved,Allocated,16.7,1050.0
+APP-10539,South,1,22700.0,Very Low Income,Female,No,59,Eligible,Pending,Not Allocated,,602.0
+APP-10156,South,6,30000.0,Low Income,Non-Binary,No,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10797,Central,1,19900.0,Very Low Income,Male,Yes,89,Eligible,Approved,Not Allocated,29.6,532.0
+APP-11234,North,6,27200.0,Low Income,Male,No,80,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10987,West,2,17600.0,Very-Low Income,Male,Yes,87,Eligible,Approved,Allocated,12.1,510.0
+APP-11208,South,2,30100.0,Low Income,Female,Yes,69,Eligible,Approved,Allocated,35.3,822.0
+APP-10083,South,3,30700.0,Low Income,Female,No,65,Eligible,Pending,Not Allocated,16.7,872.0
+APP-11267,South,3,22200.0,Very Low Income,Male,No,56,Eligible,Approved,Allocated,16.4,660.0
+APP-11260,East,1,22400.0,Very Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10367,Central,1,34500.0,Low Income,Female,No,49,Eligible,Pending,Not Allocated,9.4,898.0
+APP-10974,North,4,36100.0,Low Income,Male,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10862,South,2,18700.0,Very Low Income,Non-Binary,No,63,Eligible,Pending,Not Allocated,5.5,538.0
+APP-10997,Central,3,28000.0,Low-Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10612,West,1,20700.0,Very Low Income,Female,Yes,89,Eligible,Pending,Not Allocated,4.3,552.0
+APP-10349,South,5,43200.0,Low Income,Male,No,64,Eligible,Approved,Allocated,34.2,1255.0
+APP-11300,West,1,22300.0,Very Low Income,Female,No,59,Eligible,Approved,Allocated,13.1,592.0
+APP-11385,East,1,37000.0,Low Income,Non-Binary,No,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10167,South,1,27500.0,Low Income,Female,Yes,75,Eligible,Approved,Allocated,18.0,722.0
+APP-10857,North,5,28200.0,Low Income,Female,No,69,Eligible,Approved,Allocated,9.7,880.0
+APP-11167,West,1,19200.0,Very Low Income,Male,No,67,Eligible,Approved,Allocated,10.4,515.0
+APP-11448,West,3,33400.0,Low Income,Female,Yes,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10547,North,1,11700.0,Very Low Income,Male,No,73,Eligible,Pending,Not Allocated,4.0,328.0
+APP-10205,East,2,20900.0,Very Low Income,Male,,69,Eligible,Approved,Allocated,10.7,592.0
+APP-11191,North,3,34900.0,Low Income,Female,Yes,70,Eligible,Approved,Not Allocated,5.7,978.0
+APP-10710,West,5,31400.0,Low Income,Female,No,69,Eligible,Approved,Allocated,26.3,960.0
+APP-10606,South,2,57800.0,Moderate Income,Male,No,45,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11384,South,1,28200.0,Low Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10187,West,5,48800.0,MODERATE INCOME,Male,No,56,Eligible,Approved,Not Allocated,8.8,1395.0
+APP-10778,West,3,50700.0,Moderate Income,Male,No,60,Eligible,Approved,Allocated,11.5,1372.0
+APP-11481,West,2,26600.0,Low Income,Female,Yes,80,Eligible,Approved,Allocated,6.6,735.0
+APP-11292,North,7,37800.0,Low Income,Male,No,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10010,West,4,38100.0,Low Income,Female,No,68,Eligible,Approved,Not Allocated,21.3,1092.0
+APP-10011,North,4,24100.0,Very Low Income,Male,No,78,Eligible,Approved,Allocated,25.4,742.0
+APP-10647,East,2,31700.0,Low Income,Female,No,59,Eligible,Approved,Not Allocated,7.7,862.0
+APP-11278,Central,1,36500.0,Low Income,Male,No,54,Eligible,Approved,Allocated,35.4,947.0
+APP-10722,North,3,59000.0,Moderate Income,Male,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10631,West,1,29600.0,Low Income,Male,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10991,West,2,37800.0,Low Income,Male,Yes,69,Eligible,Approved,Allocated,5.4,1015.0
+APP-10747,South,1,41100.0,Low Income,Female,No,48,Eligible,Approved,Not Allocated,34.1,1062.0
+APP-11211,South,4,35800.0,Low Income,Female,No,59,Eligible,Approved,Allocated,15.7,1035.0
+APP-10556,South,3,40700.0,Low Income,Male,No,57,Eligible,Pending,Not Allocated,4.6,1122.0
+APP-10290,East,3,35700.0,low income,Male,,56,Eligible,Approved,Not Allocated,7.9,998.0
+APP-10729,North,2,31400.0,Low Income,Female,No,56,Eligible,Approved,Allocated,21.4,855.0
+APP-10428,Central,2,26200.0,Low Income,Male,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10562,North,3,35200.0,Low Income,Male,Yes,74,Eligible,Approved,Not Allocated,7.1,985.0
+APP-10794,East,3,25200.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11130,South,2,49800.0,Moderate Income,Male,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11013,Central,2,15300.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,51.1,
+APP-11447,West,3,29200.0,Low Income  ,Female,No,73,Eligible,Pending,Not Allocated,19.7,835.0
+APP-11065,South,2,23400.0,Very Low Income,Female,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10122,Central,1,,High Income,Female,Yes,47,Ineligible,Approved,Allocated,0.0,0.0
+APP-10657,South,1,32500.0,Low Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11081,West,1,32200.0,Low Income,Female,No,37,Eligible,Pending,Not Allocated,2.2,840.0
+APP-10768,Central,4,26100.0,Low Income,Male,No,76,Eligible,Pending,Not Allocated,21.3,792.0
+APP-10152,South,2,42000.0,Low Income,Male,Yes,72,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11219,East,4,35700.0,Low Income,Female,No,63,Eligible,Pending,Not Allocated,5.0,1032.0
+APP-10113,Central,3,36800.0,Low Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10834,North,3,27600.0,Low Income,Female,No,56,Eligible,Approved,Not Allocated,6.6,795.0
+APP-11479,West,4,50200.0,Moderate Income,Female,Yes,64,Eligible,Approved,Allocated,31.1,1395.0
+APP-10424,South,2,16500.0,Very Low Income,Female,No,66,Eligible,Approved,Allocated,22.7,482.0
+APP-10873,East,3,51700.0,Moderate Income,Male,No,42,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10915,East,3,39400.0,Low Income,Female,Y,79,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10919,West,1,29200.0,Low Income,Female,Yes,73,Eligible,Approved,Allocated,5.1,765.0
+APP-11231,Central,4,72100.0,High Income,Male,No,61,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10131,South,4,27300.0,Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10462,East,2,22700.0,Very Low Income,Female,Yes,76,Eligible,Approved,Not Allocated,10.1,638.0
+APP-10994,East,2,,Moderate Income,Female,Yes,56,Eligible,Approved,Allocated,11.8,1238.0
+APP-10851,North,3,33100.0,Low Income,Male,Yes,85,Eligible,Approved,Not Allocated,13.5,
+APP-10134,South,4,26000.0,Low Income,Female,Yes,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10001,South,3,45800.0,Moderate Income,Male,Yes,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11099,West,2,24800.0,Very Low Income,Male,No,57,Eligible,Approved,Allocated,20.7,690.0
+APP-11220,South,1,38800.0,Low Income,Male,Yes,55,Eligible,Pending,Not Allocated,6.5,1005.0
+APP-11456,Central,3,37300.0,Low Income,Female,No,61,Eligible,Pending,Not Allocated,12.9,1038.0
+APP-10513,Central,5,25800.0,Low Income,Male,No,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10700,South,2,46100.0,Moderate Income,Female,No,41,Eligible,Approved,Not Allocated,23.5,1222.0
+APP-11050,North,1,22500.0,Very Low Income,Female,No,77,Eligible,Approved,Allocated,6.0,598.0
+APP-10996,North,2,55100.0,Moderate Income,Male,No,44,Eligible,Approved,Allocated,10.9,1448.0
+APP-11010,South,5,26700.0,Low Income,Male,Yes,77,Eligible,Approved,Allocated,11.5,842.0
+APP-11317,East,2,38200.0,Low Income,Female,No,59,Eligible,Approved,Allocated,9.0,1025.0
+APP-10412,Central,5,28000.0,Low Income,Female,No,73,Eligible,Approved,Not Allocated,8.9,875.0
+APP-10323,East,3,34000.0,Low Income,Non-Binary,No,69,Eligible,Pending,Not Allocated,4.5,955.0
+APP-10002,Central,2,36500.0,Low Income,Female,No,55,Eligible,Pending,Not Allocated,15.5,982.0
+APP-10112,North,3,40600.0,Low Income,Male,Yes,69,Eligible,Approved,Not Allocated,17.3,1120.0
+APP-10436,West,4,29600.0,Low Income,Male,No,78,Eligible,Approved,Allocated,26.0,880.0
+APP-10957,East,2,35300.0,Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10453,South,3,35100.0,Low Income,Non-Binary,No,64,Eligible,Approved,Allocated,12.2,982.0
+APP-10039,West,1,38500.0,Low Income,Male,No,39,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10184,Central,4,24900.0,Very Low Income,Female,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11128,South,3,16000.0,Very Low Income,Female,No,64,Eligible,Approved,Allocated,23.2,505.0
+APP-10880,South,4,32700.0,Low Income,Male,Yes,85,Eligible,Approved,Allocated,16.2,958.0
+APP-10218,West,3,39200.0,Low Income,Female,No,65,Eligible,Pending,Not Allocated,10.0,1085.0
+APP-11008,West,2,13700.0,Very Low Income,Female,No,82,Eligible,Approved,Allocated,17.5,412.0
+APP-11028,West,6,29000.0,Low Income,Female,No,76,Eligible,Approved,Allocated,13.9,935.0
+APP-10855,North,4,24700.0,Very Low Income,Male,No,72,Eligible,Pending,Not Allocated,5.9,758.0
+APP-10307,East,3,21500.0,Very Low Income,Male,No,80,Eligible,Pending,Not Allocated,2.6,642.0
+APP-10730,North,2,26200.0,Low Income,Male,No,55,Eligible,Approved,Not Allocated,25.6,725.0
+APP-10441,North,1,34000.0,Low Income,Female,No,54,Eligible,Pending,Not Allocated,12.0,885.0
+APP-11038,West,1,27400.0,Low Income,Male,No,58,Eligible,Pending,Not Allocated,12.4,720.0
+APP-10550,West,1,29900.0,Low Income,Female,Yes,72,Eligible,Approved,Allocated,18.2,782.0
+APP-10314,Central,1,18100.0,Very Low Income,Male,No,70,Eligible,Pending,Not Allocated,22.3,487.0
+APP-10970,South,3,75700.0,High Income,Male,Yes,58,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-11159,Central,1,32700.0,Low Income,Male,Yes,61,Eligible,Approved,Allocated,18.9,852.0
+APP-10701,East,7,28500.0,Low Income,Male,No,66,Eligible,Approved,Allocated,19.1,958.0
+APP-10332,West,3,27800.0,Low Income,Male,No,49,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10037,South,1,24100.0,Very Low Income,Male,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10111,South,5,36200.0,Low Income,Female,No,72,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11072,South,5,34500.0,Low Income,Male,,75,Eligible,Approved,Allocated,41.1,1038.0
+APP-10889,North,4,35300.0,Low Income,Male,No,57,Eligible,Pending,Not Allocated,10.8,1022.0
+APP-11150,Central,2,25100.0,Low Income,Female,Yes,90,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10916,South,6,71500.0,High Income,Non-Binary,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11391,South,2,22000.0,Very Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10927,South,1,43400.0,Low Income,Male,No,41,Eligible,Pending,Not Allocated,13.1,1120.0
+APP-10746,Central,3,49900.0,Moderate Income,Female,No,37,Eligible,Pending,Not Allocated,17.1,1352.0
+APP-10615,Central,3,48800.0,Moderate Income,Male,No,52,Eligible,Pending,Not Allocated,26.1,1325.0
+APP-10776,North,3,40600.0,Low Income,Male,No,51,Eligible,Approved,Not Allocated,4.4,1120.0
+APP-11098,North,2,21300.0,Very Low Income,Male,,75,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10714,South,6,32400.0,Low Income,Female,No,67,Eligible,Approved,Allocated,30.2,1020.0
+APP-10578,Central,2,31200.0,Low Income,Male,N,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11255,West,5,45600.0,Moderate Income,Female,No,70,Eligible,Approved,Allocated,33.6,1315.0
+APP-10434,North,3,21800.0,Very Low Income,Female,Yes,81,Eligible,Approved,Allocated,11.6,650.0
+APP-10164,East,2,26100.0,Low Income,Male,Yes,85,Eligible,Pending,Not Allocated,3.1,
+APP-10264,East,2,28700.0,Low Income,Male,No,46,Eligible,Pending,Not Allocated,7.5,787.0
+APP-10232,East,3,35600.0,Low Income,Male,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10303,East,2,35000.0,Low Income,Male,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11206,West,4,32800.0,Low Income,Female,No,54,Eligible,Approved,Not Allocated,11.5,
+APP-10928,East,6,39100.0,Low Income,Female,Yes,78,Eligible,Approved,Not Allocated,5.7,1188.0
+APP-10176,North,2,34600.0,Low Income,Female,Yes,78,Eligible,Approved,Allocated,9.5,935.0
+APP-10629,North,5,42100.0,Low-Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,
+APP-10150,South,4,37200.0,Low Income,Female,No,52,Eligible,Pending,Not Allocated,9.5,1070.0
+APP-11472,West,1,29700.0,Low Income,Male,No,51,Eligible,Pending,Not Allocated,7.0,778.0
+APP-11071,South,2,22900.0,Very Low Income,Male,No,61,Eligible,Pending,Not Allocated,7.6,642.0
+APP-10072,North,1,43400.0,Low Income,Male,No,46,Eligible,Approved,Not Allocated,5.3,1120.0
+APP-10169,North,1,24200.0,Very Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10456,South,6,24100.0,Very Low Income,Male,No,73,Eligible,Pending,Not Allocated,22.2,812.0
+APP-10090,South,4,20600.0,Very Low Income ,Male,No,71,Eligible,Approved,Allocated,28.2,655.0
+APP-10118,North,3,31400.0,Low Income,Male,No,66,Eligible,Pending,Not Allocated,6.7,890.0
+APP-10488,South,2,,Moderate Income,Female,No,50,Eligible,Approved,Allocated,23.8,1445.0
+APP-10322,West,1,33800.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,13.2,880.0
+APP-11346,South,2,25500.0,Low Income,Non-Binary,No,65,Eligible,Approved,Allocated,37.3,708.0
+APP-11434,East,3,21000.0,Very Low Income,MALE,No,70,Eligible,Approved,Not Allocated,15.6,630.0
+APP-10460,North,4,27800.0,Low Income,Male,Yes,87,Eligible,Approved,Not Allocated,27.1,835.0
+APP-11498,South,2,24200.0,Very Low Income,Male,Yes,79,Eligible,Approved,Allocated,14.2,675.0
+APP-11109,West,4,33400.0,Low Income,Female,,81,Eligible,Approved,Not Allocated,9.0,975.0
+APP-11175,East,5,29700.0,Low Income,F,Yes,84,Eligible,Approved,Allocated,4.1,918.0
+APP-10242,Central,4,28600.0,Low Income,Female,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10699,North,3,36100.0,Low Income,Female,No,53,Eligible,Approved,Not Allocated,10.0,1008.0
+APP-10842,East,1,35700.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,,0.0
+APP-11375,South,4,27200.0,Low Income  ,Male,No,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10703,South,2,25800.0,Low Income,Female,No,59,Eligible,Pending,Not Allocated,2.0,715.0
+APP-11394,East,3,32900.0,Low Income, Male,Y,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10585,East,3,42700.0,Low Income,Male,No,52,Eligible,Approved,Allocated,23.2,1172.0
+APP-10980,East,4,44200.0,Low Income,Female,No,43,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10693,East,3,25300.0,Low Income,Male,No,69,Eligible,Approved,Not Allocated,13.3,738.0
+APP-10271,West,2,37800.0,Low Income,Male,No,57,Eligible,Pending,Not Allocated,7.6,1015.0
+APP-10596,South,4,23300.0,Very Low Income,Male,No,71,Eligible,Approved,Allocated,13.1,722.0
+APP-10786,Central,2,34100.0,Low Income,Male,No,54,Eligible,Pending,Not Allocated,20.5,922.0
+APP-10497,East,6,31900.0,Low Income,Male,No,69,Eligible,Pending,Not Allocated,2.1,1008.0
+APP-10221,East,1,27000.0,LOW INCOME,Male,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11290,North,8,47500.0,Moderate Income,Male,No,65,Eligible,Pending,Not Allocated,1.0,1468.0
+APP-10878,East,4,51500.0,Moderate Income,Female,No,39,Eligible,Pending,Not Allocated,2.2,1428.0
+APP-10921,Central,1,24300.0,Very Low Income,Female,No,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11392,North,3,37400.0,Low Income,Female,No,54,Eligible,Approved,Not Allocated,9.7,1040.0
+APP-10985,West,2,50100.0,Moderate Income,Male,No,48,Eligible,Approved,Allocated,17.4,1322.0
+APP-11395,South,1,17800.0,Very Low Income,Female,,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10313,North,2,,Low Income,Female,No,52,Eligible,Pending,Not Allocated,21.1,975.0
+APP-11369,North,2,26800.0,Low Income,Female,Yes,74,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10508,West,4,30700.0,Low Income,male,No,65,Eligible,Approved,Not Allocated,7.2,908.0
+APP-10394,West,1,33500.0,Low Income,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10410,North,1,34400.0,Low Income,Female,No,51,Eligible,Approved,Not Allocated,,895.0
+APP-10678,South,3,36400.0,Low Income,Male,No,69,Eligible,Approved,Allocated,24.4,1015.0
+APP-10953,North,3,33400.0,Low Income,Male,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11445,Central,4,33200.0,Low-Income,Male,No,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10329,South,4,34200.0,Low Income,Male,Yes,75,Eligible,Pending,Not Allocated,7.2,995.0
+APP-11037,South,4,25700.0,Low Income,Female,Yes,84,Eligible,Approved,Allocated,42.5,782.0
+APP-10086,South,1,22800.0,Very Low Income,Male,Yes,81,Eligible,Approved,Allocated,21.7,605.0
+APP-10084,North,2,26900.0,Low Income,Female,Yes,80,Eligible,Approved,Allocated,10.7,742.0
+APP-10207,North,3,14000.0,Very Low Income,Male,Yes,83,Eligible,Pending,Not Allocated,16.0,455.0
+APP-10104,East,2,22000.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,12.9,620.0
+APP-10735,South,3,29000.0,Low Income,Male,No,53,Eligible,Approved,Allocated,47.2,830.0
+APP-10695,North,1,35800.0,Low Income,Male,No,49,Eligible,Approved,Not Allocated,19.1,930.0
+APP-10498,North,1,18900.0,Very Low Income,Female,No,65,Eligible,Approved,Not Allocated,8.5,508.0
+APP-10328,East,6,25200.0,Low Income,Female,No,82,Eligible,Approved,Allocated,9.4,840.0
+APP-10866,East,1,56500.0,Moderate Income,Non-Binary,No,48,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10661,South,3,29900.0,Low Income,Male,No,66,Eligible,Pending,Not Allocated,8.5,852.0
+APP-10347,East,1,41800.0,Low Income,Female,No,46,Eligible,Approved,Allocated,6.4,1080.0
+APP-10211,East,1,17600.0,Very Low Income,Male,No,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10568,South,2,37300.0,Low Income,Female,Yes,71,Eligible,Approved,Not Allocated,15.2,1002.0
+APP-10143,South,3,26100.0,Low Income,Male,Yes,73,Eligible,Pending,Not Allocated,1.9,758.0
+APP-10515,North,3,35900.0,Low Income,Female,No,55,Eligible,Pending,Not Allocated,3.1,1002.0
+APP-11029,South,1,32800.0,Low Income,female,No,48,Eligible,Approved,Allocated,13.9,855.0
+APP-10865,South,3,40500.0,Low Income,Male,No,59,Eligible,Pending,Not Allocated,17.8,1118.0
+APP-10892,Central,1,,High Income,Male,Yes,54,Eligible,Approved,Allocated,7.1,1650.0
+APP-10815,Central,8,32100.0,Low Income,Female,Yes,99,Eligible,Approved,Allocated,25.6,1082.0
+APP-11143,East,4,39200.0,Low Income,Female,No,56,Eligible,Pending,Not Allocated,3.9,1120.0
+APP-10564,North,2,38600.0,Low Income,Female,No,46,Eligible,Approved,Not Allocated,15.8,1035.0
+APP-11089,Central,2,18000.0,Very Low Income,MALE,No,65,Eligible,Pending,Not Allocated,10.5,520.0
+APP-10372,North,1,21600.0,Very Low Income,Female,Yes,79,Eligible,Approved,Not Allocated,8.8,575.0
+APP-11012,Central,5,22400.0,Very Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10891,West,2,28900.0,Low Income,Female,No,59,Eligible,Approved,Allocated,7.7,792.0
+APP-11250,East,3,28600.0,Low Income,Male,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10684,East,2,20000.0,Very Low Income,Female,No,70,Eligible,Approved,Not Allocated,5.9,570.0
+APP-10633,East,3,40400.0,Low Income,Female,No,66,Eligible,Approved,Not Allocated,6.0,1115.0
+APP-10195,South,2,76900.0,High Income,Male,No,47,Ineligible,Approved,Allocated,0.0,0.0
+APP-10514,Central,1,35300.0,Low Income,Female,No,37,Eligible,Pending,Not Allocated,7.2,917.0
+APP-10210,North,3,43500.0,Low Income,Female,No,51,Eligible,Pending,Not Allocated,1.7,1192.0
+APP-11001,North,4,28100.0,Low Income,Female,No,82,Eligible,Approved,Allocated,7.4,842.0
+APP-10636,South,5,26800.0,Low Income,Male,Yes,90,Eligible,Approved,Not Allocated,13.9,845.0
+APP-10088,East,2,39700.0,Low Income,Female,No,45,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11195,North,6,58400.0,Moderate Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10910,South,2,50900.0,Moderate Income,Male,Yes,63,Eligible,Approved,Not Allocated,8.9,1342.0
+APP-10191,North,1,19900.0,Very Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10179,Central,1,,Moderate Income,Male,No,45,Eligible,Pending,Not Allocated,16.5,1625.0
+APP-10557,North,2,24600.0,Very Low Income,Female,No,77,Eligible,Approved,Not Allocated,17.2,685.0
+APP-11212,South,3,23900.0,Very Low Income,Male,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10404,West,1,24900.0,Very Low Income,Male,,73,Eligible,Approved,Allocated,11.1,658.0
+APP-11129,South,2,45300.0,Moderate Income,Male,No,47,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10745,South,5,27500.0,Low Income,Female,Yes,81,Eligible,Approved,Allocated,30.4,862.0
+APP-11124,West,5,26100.0,Low Income,Non-Binary,No,81,Eligible,Approved,Not Allocated,18.9,828.0
+APP-10512,South,1,32500.0,Low Income,Male,No,61,Eligible,Approved,Allocated,16.3,
+APP-11272,Central,2,32900.0,Low Income,Female,No,59,Eligible,Approved,Not Allocated,41.1,892.0
+APP-10472,Central,4,44400.0,Low Income,Female,,57,Eligible,Approved,Allocated,27.5,1250.0
+APP-10399,West,2,33400.0,Low Income,Non-Binary,No,52,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10036,West,1,19500.0,Very Low Income,Female,No,67,Eligible,Approved,Allocated,15.7,522.0
+APP-10206,North,1,33200.0,Low Income,Female,Yes,64,Eligible,Approved,Allocated,29.4,865.0
+APP-10609,East,2,45000.0,Low Income,Female,No,47,Eligible,Approved,Allocated,8.5,1195.0
+APP-11316,East,4,22600.0,Very Low Income,Male,No,68,Eligible,Approved,Allocated,20.6,705.0
+APP-11133,North,1,22900.0,Very Low Income,Female,No,67,Eligible,Pending,Not Allocated,8.8,608.0
+APP-11068,North,2,31100.0,Low Income,Male,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10430,North,1,32400.0,Low Income,Male,Yes,69,Eligible,Pending,Not Allocated,1.0,845.0
+APP-11262,West,1,27800.0,Low Income,Male,No,56,Eligible,Pending,Not Allocated,7.5,730.0
+APP-10229,Central,4,36400.0,Low Income,Non-Binary,No,64,Eligible,Approved,Allocated,7.1,1050.0
+APP-11004,West,6,38400.0,Low Income,Female,No,64,Eligible,Approved,Not Allocated,6.3,1170.0
+APP-11030,West,8,35100.0,Low Income,Male,No,70,Eligible,Approved,Allocated,3.5,1158.0
+APP-11493,South,3,44400.0,Low Income,Female,No,48,Eligible,Approved,Allocated,12.7,1215.0
+APP-10451,West,1,28600.0,LOW INCOME,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10728,West,3,37800.0,Low Income,Female,No,54,Eligible,Approved,Not Allocated,8.9,1050.0
+APP-10319,North,3,37800.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,5.0,1050.0
+APP-10630,South,2,31000.0,Low Income,Male,No,57,Eligible,Pending,Not Allocated,2.2,845.0
+APP-10926,North,5,55800.0,Moderate Income,Non-Binary,No,57,Eligible,Approved,Not Allocated,9.7,1570.0
+APP-10894,South,1,41400.0,Low Income,Female,N,45,Eligible,Approved,Allocated,5.4,1070.0
+APP-11020,North,4,34600.0,Low Income,Female,No,67,Eligible,Approved,Allocated,8.7,1005.0
+APP-11412,North,1,26400.0,Low Income  ,Female,No,56,Eligible,Approved,Allocated,16.4,695.0
+APP-10035,Central,2,29100.0,Low Income,Female,No,57,Eligible,Approved,Allocated,25.1,798.0
+APP-10076,West,1,32900.0,Low Income,Male,No,50,Eligible,Rejected,Not Allocated,0.0,
+APP-10174,South,4,29900.0,Low Income,Male,No,66,Eligible,Approved,Not Allocated,19.1,887.0
+APP-11400,West,1,14700.0,Very Low Income,Male,Yes,83,Eligible,Approved,Not Allocated,12.5,402.0
+APP-11076,South,3,45900.0,Moderate Income,Female,No,44,Eligible,Approved,Allocated,,1252.0
+APP-11229,Central,2,21300.0,Very Low Income,Non-Binary,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11359,South,1,31700.0,Low Income,Male,No,62,Eligible,Approved,Allocated,20.0,827.0
+APP-11457,West,4,33500.0,Low Income,Female,No,58,Eligible,Approved,Allocated,6.4,977.0
+APP-10748,East,4,40500.0,Low Income,Female,No,69,Eligible,Approved,Allocated,19.4,1152.0
+APP-11415,East,1,29100.0,Low Income,Female,No,73,Eligible,Approved,Allocated,16.0,762.0
+APP-10509,Central,1,43600.0,Low Income,Female,No,56,Eligible,Approved,Allocated,42.9,1125.0
+APP-10711,West,4,36900.0,Low Income  ,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10608,South,5,32900.0,Low Income,Male,Yes,74,Eligible,Approved,Allocated,7.7,997.0
+APP-10388,North,2,32800.0,Low Income,Female,No,54,Eligible,Pending,Not Allocated,6.3,890.0
+APP-11118,Central,2,30200.0,Low Income,Female,No,62,Eligible,Approved,Allocated,10.3,
+APP-11497,East,1,-4500.0,low income,Non-Binary,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10752,Central,5,46800.0,Moderate Income,Female,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10912,South,1,27100.0,Low Income,Male,No,53,Eligible,Approved,Allocated,13.5,712.0
+APP-10149,North,4,43500.0,Low Income,Female,No,44,Eligible,Approved,Not Allocated,11.8,1228.0
+APP-10754,South,4,48200.0,Moderate Income,Female,No,50,Eligible,Pending,Not Allocated,7.5,1345.0
+APP-10403,East,4,28500.0,Low Income,Female,No,60,Eligible,Approved,Allocated,10.2,852.0
+APP-10341,South,2,19800.0,Very Low Income,Female,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11261,South,1,26900.0,Low Income,Female,No,64,Eligible,Approved,Allocated,37.8,707.0
+APP-10988,South,5,33800.0,Low Income,Male,N,66,Eligible,Approved,Allocated,26.9,1020.0
+APP-10201,East,6,25100.0,Low Income,Male,No,80,Eligible,Approved,Allocated,29.3,837.0
+APP-11116,East,1,15500.0,Very Low Income,Male,No,72,Eligible,Approved,Allocated,3.8,422.0
+APP-10733,East,5,21000.0,Very Low Income,Female,No,85,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10541,Central,5,36900.0,Low Income,Non-Binary,Yes,85,Eligible,Approved,Allocated,19.2,1098.0
+APP-10692,South,5,37100.0,Low Income,Male,Yes,80,Eligible,Approved,Allocated,13.0,1102.0
+APP-10610,West,7,30200.0,Low Income,Male,No,74,Eligible,Approved,Allocated,14.3,1000.0
+APP-10586,South,2,51600.0,Moderate Income,Male,No,52,Eligible,Approved,Not Allocated,36.6,1360.0
+APP-10956,South,1,41400.0,Low Income,Female,No,46,Eligible,Approved,Not Allocated,6.5,1070.0
+APP-10281,Central,1,30000.0,Low Income,Female,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10411,South,2,36700.0,Low Income,Female,No,40,Eligible,Pending,Not Allocated,24.7,988.0
+APP-11204,South,1,77600.0,High Income,Female,No,42,Eligible,Approved,Allocated,30.3,1650.0
+APP-11309,South,2,30600.0,Low Income,Male,Yes,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11196,Central,3,34600.0,Low Income,Female,No,69,Eligible,Approved,Allocated,20.3,970.0
+APP-10688,South,4,35100.0,Low Income,Non-Binary,Yes,71,Eligible,Approved,Not Allocated,5.5,1018.0
+APP-10336,North,3,34700.0,Low Income,Male,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10643,North,4,33900.0,Low Income,Female,No,64,Eligible,Rejected,Not Allocated,,0.0
+APP-10315,West,1,32200.0,Low Income,Male,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10783,South,2,15600.0,Very Low Income,Male,No,77,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11202,North,7,27400.0,Low Income,Female,Yes,95,Eligible,Approved,Allocated,12.6,930.0
+APP-11466,North,4,19700.0,Very Low Income,Non-Binary,No,70,Eligible,Approved,Not Allocated,7.7,632.0
+APP-11462,East,2,33800.0,Low Income,Male,No,44,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11330,South,1,25600.0,Low Income,Female,No,58,Eligible,Approved,Not Allocated,7.0,
+APP-10093,West,1,15800.0,Very Low Income,Female,No,73,Eligible,Approved,Allocated,25.6,430.0
+APP-10835,South,1,19300.0,Very Low Income,Female,No,69,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10593,North,1,34700.0,Low-Income,Female,No,38,Eligible,Pending,Not Allocated,10.3,902.0
+APP-11496,East,5,46300.0,Moderate Income ,Male,No,55,Eligible,Approved,Allocated,12.4,1332.0
+APP-10395,South,3,14400.0,Very Low Income,Female,No,75,Eligible,Approved,Allocated,8.8,465.0
+APP-11321,South,5,49700.0,Moderate Income,Male,No,62,Eligible,Pending,Not Allocated,25.8,1418.0
+APP-11070,South,5,30200.0,Low Income,Female,No,74,Eligible,Approved,Allocated,29.5,930.0
+APP-10576,Central,5,38300.0,Low Income,Female,No,61,Eligible,Approved,Allocated,35.9,1132.0
+APP-10574,East,5,34600.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11397,South,3,15700.0,Very Low Income,Male,No,69,Eligible,Approved,Not Allocated,,497.0
+APP-10736,Central,3,34600.0,Low Income,Female,Yes,81,Eligible,Approved,Allocated,31.9,970.0
+APP-11365,West,2,42800.0,Low Income,Female,Yes,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10280,West,4,28400.0,Low Income,Female,No,76,Eligible,Approved,Not Allocated,16.5,850.0
+APP-10338,West,2,16600.0,very low income,Female,No,65,Eligible,Approved,Allocated,14.9,485.0
+APP-10228,South,8,55700.0,Moderate Income,Non-Binary,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10009,East,3,17500.0,Very Low Income,Female,Yes,86,Eligible,Approved,Allocated,10.0,542.0
+APP-11110,North,1,16600.0,Very Low Income ,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11484,North,4,21600.0,Very Low Income,Male,No,72,Eligible,Approved,Not Allocated,19.5,680.0
+APP-11197,Central,3,39800.0,Low Income,Male,No,53,Eligible,Pending,Not Allocated,9.7,1100.0
+APP-10069,North,3,35600.0,Low Income,Female,No,51,Eligible,Pending,Not Allocated,12.0,
+APP-11399,East,2,50700.0,Moderate Income,Male,No,41,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11121,Central,4,32200.0,Low Income,Male,Yes,97,Eligible,Approved,Not Allocated,20.0,945.0
+APP-11146,Central,2,62600.0,Moderate Income,Female,No,49,Eligible,Approved,Allocated,14.0,1635.0
+APP-11181,Central,2,52200.0,Moderate Income,Female,Yes,66,Eligible,Approved,Allocated,6.3,1375.0
+APP-11324,North,1,37400.0,Low Income,Male,Yes,62,Eligible,Rejected,Not Allocated,-12.5,0.0
+APP-11323,Central,3,21200.0,Very Low Income,Female,Yes,86,Eligible,Approved,Not Allocated,26.6,635.0
+APP-10025,South,2,44600.0,Low Income,Non-Binary,No,46,Eligible,Rejected,Not Allocated,0.0,
+APP-10634,East,3,34300.0,Low Income,Male,No,54,Eligible,Approved,Not Allocated,10.1,962.0
+APP-10471,North,1,23700.0,Very Low Income,Female,No,59,Eligible,Approved,Allocated,11.1,628.0
+APP-10558,North,2,19000.0,Very Low Income,Male,No,70,Eligible,Pending,Not Allocated,3.8,545.0
+APP-10294,South,3,24800.0,Very-Low Income,Male,No,59,Eligible,Pending,Not Allocated,9.2,725.0
+APP-10773,North,2,34800.0,Low Income,Female,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11452,East,3,18400.0,Very Low Income,Female,No,73,Eligible,Approved,Not Allocated,21.2,565.0
+APP-11189,South,2,28200.0,Low Income,Male,No,63,Eligible,Pending,Not Allocated,30.0,775.0
+APP-11023,Central,2,51200.0,Moderate Income,Female,No,45,Eligible,Approved,Allocated,32.4,1350.0
+APP-10121,West,2,43900.0,Low Income,Male,No,56,Eligible,Approved,Allocated,12.5,1168.0
+APP-10906,Central,3,32600.0,Low Income,Male,No,58,Eligible,Rejected,Not Allocated,0.0,
+APP-10511,East,1,21400.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,13.3,570.0
+APP-10180,North,3,21200.0,Very Low Income,Male,No,75,Eligible,Pending,Not Allocated,4.6,635.0
+APP-11094,East,3,56400.0,Moderate Income,Male,No,49,Eligible,Approved,Not Allocated,7.3,1515.0
+APP-11184,Central,2,18300.0,Very Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10816,East,1,13300.0,Very-Low Income,Female,No,72,Eligible,Approved,Allocated,2.0,367.0
+APP-11483,East,4,47600.0,Moderate Income,Female,No,61,Eligible,Pending,Not Allocated,17.9,1330.0
+APP-10864,South,2,52700.0,Moderate Income,Male,Yes,66,Eligible,Pending,Not Allocated,6.1,1388.0
+APP-11083,South,3,37400.0,Low Income,Female,No,53,Eligible,Pending,Not Allocated,5.4,1040.0
+APP-11209,South,1,25300.0,Low Income,F,Yes,75,Eligible,Approved,Not Allocated,13.0,668.0
+APP-11341,South,2,35300.0,Low Income,Female,Yes,72,Eligible,Approved,Not Allocated,,952.0
+APP-10381,North,3,49000.0,Moderate Income,Male,Yes,62,Eligible,Approved,Allocated,28.6,1330.0
+APP-10605,North,4,24700.0,Very Low Income,Female,No,62,Eligible,Approved,Allocated,15.6,758.0
+APP-11256,South,2,21500.0,Very Low Income,Male,No,61,Eligible,Approved,Allocated,15.4,608.0
+APP-11337,North,8,92000.0,High Income,Female,No,65,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10551,East,2,28200.0,Low Income,Male,No,66,Eligible,Approved,Not Allocated,9.3,775.0
+APP-11172,Central,2,12300.0,Very Low Income,Female,No,76,Eligible,Approved,Not Allocated,15.3,378.0
+APP-10252,South,1,34400.0,Low Income,Female,No,45,Eligible,Approved,Allocated,4.4,
+APP-11421,South,2,,Low Income,Female,,56,Eligible,Pending,Not Allocated,4.6,1135.0
+APP-10213,East,4,24900.0,Very Low Income,Female,No,78,Eligible,Pending,Not Allocated,4.5,762.0
+APP-11308,West,1,11700.0,Very Low Income,Female,No,69,Eligible,Rejected,Not Allocated,0.0,
+APP-10331,South,7,48400.0,Moderate Income,Female,No,64,Eligible,Pending,Not Allocated,12.8,1455.0
+APP-10433,East,3,20800.0,Very Low Income,Female,No,65,Eligible,Approved,Not Allocated,13.1,625.0
+APP-10277,West,3,52400.0,Moderate Income,Female,Yes,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11364,East,3,15900.0,Very Low Income,Male,No,83,Eligible,Approved,Allocated,8.7,502.0
+APP-10292,North,4,30900.0,Low Income,Female,Yes,74,Eligible,Approved,Not Allocated,14.3,912.0
+APP-10902,North,1,30000.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,16.3,785.0
+APP-10449,South,2,25100.0,Low Income,Female,No,63,Eligible,Approved,Allocated,19.4,697.0
+APP-11283,East,7,37300.0,Low Income,Female,No,68,Eligible,Approved,Allocated,22.9,1178.0
+APP-11333,South,1,28600.0,Low Income,Male,Yes,77,Eligible,Approved,Allocated,40.2,750.0
+APP-10304,East,2,43100.0,Low Income,Male,Yes,62,Eligible,Pending,Not Allocated,9.6,1148.0
+APP-11312,Central,3,24100.0,Very Low Income,Male,No,58,Eligible,Approved,Not Allocated,15.7,708.0
+APP-11435,North,4,38800.0,Low Income,Male,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10941,South,3,52700.0,Moderate Income,Male,No,51,Eligible,Pending,Not Allocated,6.2,1422.0
+APP-10068,West,1,30600.0,Low Income,Male,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10020,South,5,53500.0,Moderate Income,Female,,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10325,Central,3,22100.0,Very Low Income,Male,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11403,North,1,45000.0,Low Income,Female,No,39,Eligible,Approved,Allocated,10.7,1160.0
+APP-10055,East,1,53900.0,Moderate Income,Male,N,36,Eligible,Rejected,Not Allocated,0.0,
+APP-10964,South,3,22000.0,Very Low Income,Female,N,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10932,West,4,33500.0,Low Income,Female,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11439,North,6,39600.0,Low Income,Male,No,60,Eligible,Approved,Not Allocated,25.7,1200.0
+APP-10151,Central,1,33700.0,Low Income,Male,No,58,Eligible,Approved,Not Allocated,8.9,878.0
+APP-11363,East,6,40800.0,Low Income,Male,No,61,Eligible,Approved,Allocated,16.2,1230.0
+APP-11122,Central,5,34500.0,Low Income,Male,Yes,86,Eligible,Approved,Not Allocated,19.0,1038.0
+APP-11490,South,5,32200.0,Low Income,Female,Yes,88,Eligible,Pending,Not Allocated,22.2,980.0
+APP-11131,West,3,27800.0,Low Income,Non-Binary,Yes,76,Eligible,Approved,Allocated,13.6,800.0
+APP-10744,East,8,47000.0,Moderate Income,Male,No,63,Eligible,Pending,Not Allocated,4.8,1455.0
+APP-10750,East,1,33800.0,Low Income,Male,No,54,Eligible,Pending,Not Allocated,,880.0
+APP-10756,West,3,35200.0,LOW INCOME,Male,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11049,Central,2,72100.0,High Income,Female,No,40,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10812,West,5,40900.0,Low Income,Male,Yes,67,Eligible,Pending,Not Allocated,12.4,1198.0
+APP-10662,Central,3,50800.0,Moderate Income,Male,Yes,66,Eligible,Pending,Not Allocated,10.1,1375.0
+APP-11402,North,4,37000.0,Low Income,Male,Yes,54,Eligible,Approved,Allocated,5.8,1065.0
+APP-11107,South,1,41900.0,Low Income,Male,No,41,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10256,East,4,31200.0,Low Income,Female,No,70,Eligible,Approved,Allocated,16.4,920.0
+APP-10935,North,6,25300.0,Low Income,Female,Yes,94,Eligible,Pending,Not Allocated,5.2,
+APP-10870,Central,4,42500.0,Low Income,Male,No,56,Eligible,Approved,Allocated,7.3,1202.0
+APP-11442,North,3,26800.0,Low Income,Female,No,63,Eligible,Approved,Allocated,8.4,775.0
+APP-10893,West,2,15900.0,Very Low Income,Female,No,71,Eligible,Approved,Allocated,11.7,468.0
+APP-10874,South,2,37700.0,Low Income,Female,No,49,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10614,North,5,26100.0,Low Income,Female,No,76,Eligible,Approved,Allocated,6.8,828.0
+APP-11101,North,3,26200.0,Low Income,Non-Binary,No,63,Eligible,Approved,Not Allocated,17.5,760.0
+APP-10389,West,4,57800.0,Moderate Income,Female,Yes,55,Eligible,Pending,Not Allocated,9.9,1585.0
+APP-10937,North,2,25400.0,Low Income,Male,No,67,Eligible,Approved,Not Allocated,9.0,705.0
+APP-10407,South,6,39800.0,Low Income,Female,No,72,Eligible,Approved,Not Allocated,19.3,1205.0
+APP-10795,North,1,31800.0,Low Income,Male,,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10716,Central,2,32500.0,Low Income,Male,Yes,65,Eligible,Approved,Allocated,11.7,882.0
+APP-11135,West,4,24200.0,Very Low Income,Female,No,68,Eligible,Approved,Not Allocated,23.0,745.0
+APP-11024,Central,2,59300.0,Moderate Income,Male,Yes,63,Eligible,Pending,Not Allocated,19.3,1552.0
+APP-11056,South,6,21000.0,Very Low Income,Female,Yes,92,Eligible,Pending,Not Allocated,10.4,735.0
+APP-11342,South,4,44300.0,Low Income,FEMALE,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10247,South,1,20700.0,Very Low Income,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10146,North,4,43900.0,Low Income,Female,No,54,Eligible,Approved,Allocated,15.7,1238.0
+APP-11428,Central,7,29400.0,Low Income,Male,Yes,90,Eligible,Rejected,Not Allocated,0.0,
+APP-11153,West,2,29200.0,Low Income,Male,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11406,South,1,12200.0,Very Low Income,Female,No,64,Eligible,Pending,Not Allocated,6.1,340.0
+APP-10623,South,6,26400.0,Low Income,Female,No,69,Eligible,Approved,Allocated,6.4,870.0
+APP-11424,North,1,19500.0,VERY LOW INCOME,Female,Yes,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10461,North,1,25300.0,Low Income,Female,Yes,76,Eligible,Pending,Not Allocated,8.7,668.0
+APP-10487,North,4,66100.0,Moderate Income,Male,No,56,Eligible,Approved,Not Allocated,8.0,1650.0
+APP-11454,East,2,30600.0,Low Income,Male,No,63,Eligible,Approved,Allocated,12.4,835.0
+APP-10091,North,3,60100.0,Moderate Income,Female,No,46,Eligible,Pending,Not Allocated,2.9,1607.0
+APP-11230,South,2,19500.0,Very Low Income,Female,Yes,87,Eligible,Pending,Not Allocated,3.6,558.0
+APP-10493,South,3,53900.0,Moderate Income,Female,N,34,Eligible,Pending,Not Allocated,19.3,1452.0
+APP-10171,East,2,30700.0,Low Income,Female,No,71,Eligible,Approved,Not Allocated,6.0,838.0
+APP-10057,North,3,20200.0,Very Low Income,Male,,86,Eligible,Approved,Allocated,6.9,610.0
+APP-10405,South,4,32300.0,Low Income,Non-Binary,No,69,Eligible,Pending,Not Allocated,20.1,947.0
+APP-11266,North,6,47100.0,Moderate Income,Female,Yes,85,Eligible,Approved,Allocated,14.8,1388.0
+APP-10600,North,2,16100.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,7.3,472.0
+APP-11016,Central,5,69600.0,Moderate Income,Female,No,47,Eligible,Pending,Not Allocated,18.9,1650.0
+APP-10098,South,1,24100.0,Very Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10827,South,4,21400.0,Very Low Income,Male,No,64,Eligible,Approved,Not Allocated,6.3,675.0
+APP-11141,West,2,25400.0,Low Income,Male,No,58,Eligible,Approved,Allocated,16.8,705.0
+APP-11226,East,2,32100.0,Low Income,Female,No,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10480,East,4,29400.0,Low Income,Female,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10324,South,4,27900.0,Low Income,Female,No,76,Eligible,Approved,Allocated,20.6,838.0
+APP-11218,West,7,54900.0,moderate income,Male,No,54,Eligible,Approved,Allocated,17.5,1618.0
+APP-11368,Central,4,77600.0,High Income,Female,No,50,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10099,North,1,19300.0,Very Low Income,Non-Binary,No,64,Eligible,Approved,Allocated,8.5,518.0
+APP-11248,North,1,40500.0,Low Income,Female,No,52,Eligible,Pending,Not Allocated,1.8,1048.0
+APP-10425,North,4,28300.0,Low Income,Female,No,63,Eligible,Approved,Allocated,16.8,848.0
+APP-10297,West,4,29400.0,Low Income,Female,No,75,Eligible,Approved,Allocated,15.7,875.0
+APP-10738,West,1,44300.0,Low Income,Female,N,50,Eligible,Pending,Not Allocated,19.7,1142.0
+APP-11446,North,1,23200.0,Very Low Income,Female,No,59,Eligible,Pending,Not Allocated,15.4,615.0
+APP-10903,North,2,36800.0,Low Income,Female,Yes,77,Eligible,Approved,Allocated,8.2,990.0
+APP-10602,South,3,41100.0,Low Income,Male,No,46,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11000,South,2,27300.0,Low Income,Male,Yes,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11383,Central,1,12000.0,Very Low Income,Male,No,66,Eligible,Approved,Allocated,27.8,335.0
+APP-10396,Central,4,30100.0,Low Income,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10427,South,3,28300.0,Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11380,East,1,10800.0,Very-Low Income,Male,Yes,87,Eligible,Approved,Allocated,17.8,305.0
+APP-11039,North,4,44700.0,Low-Income,Female,Yes,58,Eligible,Pending,Not Allocated,3.2,
+APP-10253,Central,1,20500.0,Very Low Income,Non-Binary,No,63,Eligible,Pending,Not Allocated,4.8,548.0
+APP-10239,East,2,21400.0,Very Low Income,Female,Yes,68,Eligible,Pending,Not Allocated,9.0,605.0
+APP-11145,South,1,32800.0,Low Income,Male,No,62,Eligible,Approved,Not Allocated,21.7,855.0
+APP-10845,North,6,25400.0,Low Income,Female,No,78,Eligible,Approved,Allocated,17.4,
+APP-11310,West,4,74700.0,High Income,Male,No,55,Ineligible,Rejected,Not Allocated,0.0,0.0
+APP-10846,South,3,17000.0,Very Low Income,Female,Yes,78,Eligible,Pending,Not Allocated,25.7,530.0
+APP-10555,Central,4,21100.0,Very Low Income,Female,No,61,Eligible,Approved,Not Allocated,2.5,668.0
+APP-11221,Central,5,32300.0,Low Income,Female,No,68,Eligible,Approved,Allocated,13.1,982.0
+APP-10546,South,4,92000.0,HIGH INCOME,Female,No,36,Eligible,Pending,Not Allocated,13.8,1650.0
+APP-10251,South,3,17100.0,Very Low Income,Female,No,71,Eligible,Approved,Not Allocated,27.1,532.0
+APP-10740,South,1,28200.0,Low Income,Male,Yes,77,Eligible,Approved,Allocated,7.8,740.0
+APP-10965,South,3,27300.0,Low Income,Female,N,73,Eligible,Approved,Allocated,17.3,788.0
+APP-10199,Central,6,51700.0,Moderate Income,Female,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10898,Central,1,19700.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,33.1,528.0
+APP-11356,Central,3,34600.0,Low Income,Male,Yes,64,Eligible,Approved,Not Allocated,28.2,970.0
+APP-11338,West,1,29600.0,Low Income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11315,South,3,48200.0,Moderate Income,Female,No,48,Eligible,Pending,Not Allocated,3.4,1310.0
+APP-10990,West,2,59000.0,Moderate Income,Female,No,35,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11041,East,3,18600.0,Very Low Income,Female,No,74,Eligible,Approved,Allocated,4.1,570.0
+APP-11183,East,1,25400.0,Low Income,Female,No,52,Eligible,Approved,Allocated,20.5,670.0
+APP-10244,South,1,27200.0,Low Income,Male,Yes,70,Eligible,Approved,Not Allocated,13.6,715.0
+APP-10067,North,3,37800.0,Low Income,Male,Yes,77,Eligible,Approved,Allocated,4.3,1050.0
+APP-11467,Central,4,29300.0,Low Income,Male,Yes,81,Eligible,Pending,Not Allocated,21.7,872.0
+APP-10934,East,2,40500.0,Low Income,Female,,41,Eligible,Rejected,Not Allocated,0.0,
+APP-10360,East,4,58000.0,Moderate Income,Female,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10096,South,3,34000.0,Low Income,Female,Yes,81,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11492,South,4,26500.0,Low Income,Male,No,63,Eligible,Approved,Not Allocated,19.2,802.0
+APP-10156,South,6,30000.0,Low Income,Non-Binary,No,84,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10522,South,3,36500.0,Low Income,Female,No,52,Eligible,Approved,Allocated,15.2,1017.0
+APP-11427,North,4,19500.0,Very Low Income,Female,No,68,Eligible,Approved,Allocated,6.5,628.0
+APP-10975,North,3,46600.0,moderate income,Female,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10666,North,7,54200.0,Moderate Income,Female,Yes,71,Eligible,Pending,Not Allocated,4.2,1600.0
+APP-10362,East,3,55100.0,Moderate Income ,Male,No,39,Eligible,Approved,Allocated,33.9,1482.0
+APP-10485,East,1,24000.0,Very Low Income,Male,No,64,Eligible,Approved,Not Allocated,13.1,635.0
+APP-11176,East,2,18800.0,Very Low Income,Female,No,70,Eligible,Approved,Allocated,10.1,540.0
+APP-11281,East,1,34000.0,Low Income,Female,No,51,Eligible,Approved,Not Allocated,19.8,885.0
+APP-10312,North,4,25100.0,Low Income,Male,No,70,Eligible,Approved,Allocated,5.3,767.0
+APP-11329,East,2,46000.0,Moderate Income,Female,Yes,57,Eligible,Approved,Not Allocated,12.3,1220.0
+APP-10843,North,1,70200.0,High Income,Female,No,46,Eligible,Approved,Allocated,,1650.0
+APP-10414,East,2,22700.0,Very Low Income,Female,No,65,Eligible,Approved,Allocated,11.7,638.0
+APP-11158,Central,5,34700.0,Low Income,Male,No,63,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10032,North,3,22400.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,25.7,665.0
+APP-10766,East,3,33900.0,Low Income,Male,Yes,75,Eligible,Pending,Not Allocated,1.8,952.0
+APP-10459,North,3,43400.0,Low Income,Male,No,55,Eligible,Approved,Allocated,11.7,1190.0
+APP-11186,Central,1,52100.0,Moderate Income,Female,Yes,44,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10340,North,1,34300.0,Low Income,Female,Yes,71,Eligible,Pending,Not Allocated,14.0,892.0
+APP-10287,South,3,33100.0,Low Income,Female,Yes,82,Eligible,Approved,Not Allocated,21.2,932.0
+APP-11273,West,4,18800.0,Very Low Income,Female,No,72,Eligible,Approved,Not Allocated,,610.0
+APP-10211,East,1,17600.0,Very Low Income,Male,No,59,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10950,East,2,45000.0,Low Income,Female,No,45,Eligible,Approved,Not Allocated,5.7,1195.0
+APP-10140,Central,5,21300.0,Very Low Income,Female ,Yes,88,Eligible,Approved,Allocated,24.3,708.0
+APP-10849,East,3,27200.0,Low Income,Male,Yes,92,Eligible,Approved,Not Allocated,12.9,785.0
+APP-11026,South,2,19800.0,Very Low Income,Male,No,75,Eligible,Approved,Allocated,31.2,565.0
+APP-11232,South,2,48700.0,Moderate Income,Female,No,61,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11139,South,6,29300.0,Low Income,Female,No,69,Eligible,Approved,Not Allocated,14.9,942.0
+APP-10901,North,2,36300.0,Low Income,Male,Yes,64,Eligible,Approved,Allocated,8.8,978.0
+APP-10732,West,1,28100.0,Low Income,Female,Yes,78,Eligible,Approved,Allocated,13.5,737.0
+APP-10265,Central,1,34100.0,Low Income,Male,No,42,Eligible,Approved,Not Allocated,29.8,887.0
+APP-10275,East,4,38100.0,Low Income,FEMALE,No,64,Eligible,Approved,Allocated,20.3,1092.0
+APP-11095,South,1,35500.0,Low Income,Female,No,54,Eligible,Approved,Allocated,15.7,922.0
+APP-10445,West,4,32800.0,Low Income,Female,Yes,76,Eligible,Approved,Allocated,23.6,960.0
+APP-10040,South,3,45400.0,MODERATE INCOME,Male,No,57,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11123,Central,2,29300.0,Low Income,Female,No,74,Eligible,Approved,Not Allocated,28.3,802.0
+APP-11265,North,1,35400.0,Low Income,Female,No,51,Eligible,Pending,Not Allocated,8.0,920.0
+APP-10022,North,6,32200.0,Low Income,female,No,70,Eligible,Approved,Allocated,7.2,1015.0
+APP-10706,Central,5,27600.0,Low Income,Female,No,64,Eligible,Pending,Not Allocated,20.1,865.0
+APP-10518,West,5,27300.0,Low Income,Male,No,71,Eligible,Pending,Not Allocated,7.3,858.0
+APP-11174,South,1,52900.0,Moderate Income,Female,No,35,Eligible,Rejected,Not Allocated,,0.0
+APP-10355,North,5,38200.0,Low Income,Male,No,63,Eligible,Approved,Allocated,21.7,1130.0
+APP-10298,North,1,15100.0,Very Low Income,Male,No,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11077,South,7,42700.0,Low Income,Male,Yes,88,Eligible,Approved,Allocated,10.0,1312.0
+APP-10840,East,2,59900.0,Moderate Income,Female,No,37,Eligible,Pending,Not Allocated,13.4,1568.0
+APP-11223,South,4,36900.0,Low Income,Female,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10925,South,2,20500.0,Very Low Income,Female,No,65,Eligible,Approved,Allocated,19.8,582.0
+APP-10123,South,3,23700.0,Very Low Income,Male,Yes,80,Eligible,Approved,Allocated,21.5,698.0
+APP-11228,South,1,20500.0,Very Low Income,Male,Yes,78,Eligible,Approved,Not Allocated,21.2,548.0
+APP-11092,East,4,27300.0,Low Income,Male,No,66,Eligible,Approved,Allocated,17.9,822.0
+APP-11248,North,1,40500.0,Low Income,Female,No,52,Eligible,Pending,Not Allocated,1.8,1048.0
+APP-11152,West,2,22800.0,Very Low Income,Female,No,69,Eligible,Pending,Not Allocated,9.1,640.0
+APP-11164,West,3,17700.0,Very Low Income,Male,Yes,76,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10418,South,3,36500.0,Low Income,Female,No,67,Eligible,Approved,Allocated,15.9,1017.0
+APP-10967,West,2,28200.0,Low Income,Female,No,68,Eligible,Approved,Not Allocated,16.5,775.0
+APP-11243,West,1,70800.0,HIGH INCOME,Male,No,34,Eligible,Approved,Not Allocated,29.5,1650.0
+APP-10158,West,2,47000.0,Moderate Income,Male,No,32,Eligible,Rejected,Not Allocated,,0.0
+APP-11119,South,4,28600.0,Low Income,Male,No,59,Eligible,Pending,Not Allocated,7.3,855.0
+APP-11280,South,1,20500.0,Very Low Income,Female,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11064,South,1,18900.0,Very Low Income,Female,No,64,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11155,East,4,28200.0,Low Income,Male,No,74,Eligible,Approved,Allocated,12.0,845.0
+APP-11430,Central,2,27800.0,Low Income,Female,Yes,65,Eligible,Approved,Allocated,41.7,765.0
+APP-10190,South,4,33800.0,Low Income, Male,Yes,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10590,North,2,24800.0,Very Low Income,Female,No,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10761,North,4,23200.0,Very Low Income,Female,No,66,Eligible,Pending,Not Allocated,5.0,720.0
+APP-11063,West,1,61800.0,Moderate Income,Non-Binary,No,45,Eligible,Approved,Allocated,11.5,
+APP-10243,Central,4,32700.0,Low Income,Male,No,58,Eligible,Pending,Not Allocated,30.0,958.0
+APP-10885,West,2,18100.0,Very Low Income,Female,Yes,88,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11378,East,1,41600.0,Low Income,Female,Yes,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10621,North,4,19100.0,Very Low Income,Female,No,78,Eligible,Approved,Allocated,15.7,618.0
+APP-10651,North,2,14700.0,Very Low Income,Male,No,67,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10504,West,2,31300.0,Low Income,Female,No,60,Eligible,Pending,Not Allocated,6.3,852.0
+APP-10923,Central,4,45000.0,Low Income,Female,Yes,73,Eligible,Pending,Not Allocated,10.9,1265.0
+APP-10160,West,2,17800.0,Very Low Income,Male,No,67,Eligible,Approved,Allocated,7.0,515.0
+APP-10883,North,5,26000.0,Low Income,Male,No,64,Eligible,Pending,Not Allocated,3.3,825.0
+APP-10538,South,1,47700.0,Moderate Income,Female,No,45,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10241,Central,4,51300.0,Moderate Income,Female,No,49,Eligible,Pending,Not Allocated,17.0,1422.0
+APP-10014,North,1,42400.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,11.5,1095.0
+APP-10476,Central,6,65600.0,Moderate Income,Non-Binary,No,58,Eligible,Pending,Not Allocated,4.3,1650.0
+APP-11458,East,5,21000.0,Very Low Income,Female,No,74,Eligible,Approved,Allocated,7.0,700.0
+APP-11433,South,1,17400.0,Very Low Income,Female,Yes,78,Eligible,Pending,Not Allocated,13.3,470.0
+APP-10929,East,2,29600.0,Low Income,Female,No,57,Eligible,Pending,Not Allocated,5.4,810.0
+APP-11339,North,4,52000.0,Moderate Income,Male,No,55,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11386,South,6,36200.0,Low Income,Female,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11345,West,3,42600.0,Low-Income,Female,Yes,73,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10796,Central,1,32300.0,Low Income,FEMALE,No,59,Eligible,Approved,Allocated,10.7,842.0
+APP-10356,East,2,43400.0,Low Income,Male,Yes,68,Eligible,Approved,Allocated,35.5,1155.0
+APP-11059,South,1,24200.0,Very Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10335,North,4,37100.0,Low Income,Female,Yes,76,Eligible,Pending,Not Allocated,5.0,1068.0
+APP-10689,West,4,24600.0,Very Low Income,Non-Binary,No,71,Eligible,Approved,Allocated,12.5,755.0
+APP-11401,North,1,20900.0,Very Low Income,Male,No,65,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10185,South,1,22400.0,Very Low Income,Female,No,57,Eligible,Pending,Not Allocated,30.0,595.0
+APP-10824,South,2,38900.0,Low Income,female,Yes,61,Eligible,Approved,Allocated,17.6,1042.0
+APP-11440,East,1,46000.0,Moderate Income,Female,No,37,Eligible,Pending,Not Allocated,8.5,1185.0
+APP-11350,North,2,26400.0,Low Income,Male,Yes,76,Eligible,Approved,Allocated,6.3,730.0
+APP-11002,East,4,29700.0,Low Income,Non-Binary,No,64,Eligible,Approved,Not Allocated,12.5,882.0
+APP-10188,East,2,41200.0,Low Income,Female,No,43,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10942,East,3,14500.0,Very Low Income,Male,No,80,Eligible,Approved,Allocated,26.7,467.0
+APP-10285,East,3,58900.0,Moderate Income,Female,No,41,Eligible,Approved,Allocated,7.7,1577.0
+APP-11416,Central,3,31100.0,Low Income,Female,Yes,82,Eligible,Approved,Not Allocated,38.0,882.0
+APP-10900,North,3,17200.0,Very Low Income,Female,Yes,90,Eligible,Approved,Not Allocated,10.0,535.0
+APP-10709,South,2,18600.0,Very Low Income,Female,Yes,94,Eligible,Approved,Not Allocated,,535.0
+APP-10166,West,5,39200.0,Low Income,Female,No,69,Eligible,Approved,Allocated,18.2,1155.0
+APP-10348,North,1,15700.0,Very Low Income,Male,No,74,Eligible,Approved,Not Allocated,12.8,427.0
+APP-10299,East,1,26700.0,Low Income,Female,No,51,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10536,Central,2,23800.0,Very Low Income,Female,No,59,Eligible,Approved,Allocated,27.3,665.0
+APP-10230,East,3,60300.0,Moderate Income,Male,No,50,Eligible,Pending,Not Allocated,4.1,1612.0
+APP-10042,South,1,18200.0,Very Low Income,Male,No,63,Eligible,Approved,Allocated,16.2,490.0
+APP-10869,Central,2,21900.0,Very Low Income,Female,No,69,Eligible,Approved,Not Allocated,24.8,618.0
+APP-10749,Central,3,29600.0,Low Income,Male,No,79,Eligible,Approved,Not Allocated,4.8,845.0
+APP-11477,West,4,23100.0,Very Low Income,Male,Yes,84,Eligible,Approved,Not Allocated,14.3,718.0
+APP-10447,Central,2,35900.0,Low Income,Female,No,47,Eligible,Pending,Not Allocated,21.8,967.0
+APP-10350,East,3,50900.0,Moderate Income,Female,Yes,70,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10046,East,2,17100.0,Very Low Income,Female,No,57,Eligible,Approved,Allocated,6.6,498.0
+APP-11482,North,1,21400.0,Very Low Income,Female,No,59,Eligible,Approved,Allocated,15.6,570.0
+APP-10261,East,2,37000.0,Low Income,Male,No,54,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10109,South,1,32700.0,Low Income,Non-Binary,No,60,Eligible,Approved,Allocated,44.9,852.0
+APP-10030,North,3,34000.0,Low Income,Male,No,62,Eligible,Pending,Not Allocated,4.7,955.0
+APP-10182,North,7,31400.0,Low Income,Female,No,76,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10622,North,3,30200.0,Low Income,Female,No,58,Eligible,Pending,Not Allocated,5.1,860.0
+APP-11444,South,4,30600.0,Low Income,Female,No,69,Eligible,Pending,Not Allocated,8.6,905.0
+APP-10635,North,4,20400.0,Very Low Income,Male,No,89,Eligible,Approved,Allocated,4.6,650.0
+APP-10105,Central,1,35300.0,Low Income  ,Male,No,58,Eligible,Approved,Not Allocated,26.0,917.0
+APP-10061,South,2,39600.0,Low Income,Male,No,50,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10659,East,2,44000.0,Low Income,Female,No,45,Eligible,Pending,Not Allocated,11.0,1170.0
+APP-11108,West,2,25000.0,Very Low Income,Male,No,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10491,South,4,36600.0,Low Income,Female,No,68,Eligible,Approved,Not Allocated,14.7,1055.0
+APP-10316,West,6,26400.0,Low Income,Female,No,78,Eligible,Approved,Allocated,13.6,870.0
+APP-10382,West,5,63000.0,Moderate Income,Female,No,47,Eligible,Approved,Allocated,17.8,1650.0
+APP-10423,North,3,29100.0,Low Income,Female,No,61,Eligible,Approved,Allocated,5.8,832.0
+APP-11487,South,1,44700.0,Low Income,Female,No,50,Eligible,Pending,Not Allocated,9.1,1152.0
+APP-10446,Central,3,23200.0,Very Low Income,Female,,94,Eligible,Pending,Not Allocated,8.2,685.0
+APP-10664,South,4,21800.0,Very Low Income,Female,No,70,Eligible,Approved,Not Allocated,18.0,685.0
+APP-11025,Central,4,20200.0,Very Low Income,Female,No,71,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10780,East,1,22400.0,Very Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10627,South,3,49600.0,Moderate Income,Female,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11113,South,2,30500.0,Low Income,Female,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11102,Central,1,16000.0,Very Low Income,Female,No,63,Eligible,Approved,Allocated,18.7,435.0
+APP-10269,South,2,34300.0,Low Income,Female,Yes,70,Eligible,Pending,Not Allocated,11.2,928.0
+APP-10930,South,5,42200.0,Low Income,Non-Binary,No,68,Eligible,Pending,Not Allocated,13.3,1230.0
+APP-11148,East,3,30400.0,Low Income,Female,No,61,Eligible,Approved,Allocated,21.9,865.0
+APP-11322,North,1,38200.0,Low Income,Male,No,53,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11120,North,2,26500.0,Low Income,Female,No,59,Eligible,Approved,Allocated,2.5,732.0
+APP-10012,Central,4,22000.0,Very Low Income,Female,No,73,Eligible,Approved,Not Allocated,24.2,690.0
+APP-10115,East,2,40400.0,Low Income,Female,No,48,Eligible,Approved,Allocated,7.8,1080.0
+APP-10844,Central,2,22800.0,Very Low Income,Male,No,67,Eligible,Approved,Not Allocated,16.8,640.0
+APP-11453,Central,4,22900.0,Very Low Income,Female,Yes,83,Eligible,Pending,Not Allocated,7.1,712.0
+APP-11282,West,4,27100.0,Low Income,Female,No,64,Eligible,Approved,Allocated,11.4,818.0
+APP-10353,East,5,71200.0,High Income,Female,Yes,68,Eligible,Approved,Allocated,9.6,1650.0
+APP-11277,South,1,18900.0,Very Low Income,Female,No,72,Eligible,Pending,Not Allocated,9.7,508.0
+APP-10774,South,3,27300.0,Low Income,Female,No,61,Eligible,Approved,Allocated,34.6,788.0
+APP-10691,South,2,36400.0,Low Income,Male,No,60,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10791,North,3,42200.0,Low Income,Male,No,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10532,Central,3,16000.0,Very Low Income,Female,Yes,87,Eligible,Approved,Not Allocated,13.6,505.0
+APP-10868,North,3,25800.0,Low Income,Male,No,79,Eligible,Approved,Not Allocated,11.4,750.0
+APP-10170,East,4,25400.0,Low Income,Male,No,71,Eligible,Approved,Not Allocated,17.2,775.0
+APP-10240,North,2,28100.0,Low Income,Male,No,63,Eligible,Pending,Not Allocated,18.1,772.0
+APP-11302,Central,5,42200.0,Low Income,Non-Binary,No,75,Eligible,Approved,Allocated,19.1,1230.0
+APP-11185,North,2,66900.0,Moderate Income,Female,No,44,Eligible,Pending,Not Allocated,14.7,1650.0
+APP-10074,West,5,34900.0,Low Income,Male,Yes,87,Eligible,Approved,Not Allocated,15.2,1048.0
+APP-11087,East,1,33700.0,Low Income,Male,No,48,Eligible,Pending,Not Allocated,11.9,878.0
+APP-10762,South,3,28000.0,Low Income,Female,No,64,Eligible,Approved,Allocated,2.0,805.0
+APP-10741,South,4,19500.0,Very Low Income,Male,No,67,Eligible,Approved,Allocated,8.8,628.0
+APP-10751,North,1,19900.0,Very Low Income,Female,No,71,Eligible,Approved,Allocated,32.6,532.0
+APP-10742,South,1,36500.0,Low Income,Male,No,58,Eligible,Pending,Not Allocated,10.1,947.0
+APP-10831,South,2,42200.0,Low Income,Female,No,54,Eligible,Pending,Not Allocated,16.5,1125.0
+APP-10048,East,3,22100.0,Very Low Income,Male,No,61,Eligible,Approved,Allocated,18.1,658.0
+APP-10763,South,5,32300.0,Low Income,Male,No,80,Eligible,Approved,Allocated,38.0,982.0
+APP-10592,East,6,32900.0,Low Income,Male,No,66,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-10808,Central,3,32200.0,Low Income,Male,No,56,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11084,Central,2,27700.0,Low Income,Male,No,55,Eligible,Pending,Not Allocated,30.0,762.0
+APP-10506,North,4,28100.0,Low Income,Non-Binary,No,71,Eligible,Approved,Allocated,13.4,842.0
+APP-11045,Central,1,61300.0,Moderate Income,Male,Yes,59,Eligible,Approved,Allocated,21.6,1567.0
+APP-11449,Central,2,20000.0,Very Low Income,Female,Yes,87,Eligible,Approved,Not Allocated,35.1,
+APP-10653,East,4,29000.0,Low Income,Female,No,79,Eligible,Approved,Not Allocated,11.1,865.0
+APP-10193,Central,2,26500.0,Low Income,Non-Binary,Yes,75,Eligible,Approved,Allocated,7.9,732.0
+APP-11240,North,1,22600.0,Very Low Income,Female,No,60,Eligible,Pending,Not Allocated,8.6,600.0
+APP-10245,North,2,40100.0,Low Income,Female,No,42,Eligible,Rejected,Not Allocated,,0.0
+APP-11388,North,2,27100.0,Low Income,Male,No,56,Eligible,Approved,Allocated,8.9,748.0
+APP-10060,South,5,25500.0,Low Income,Female,Yes,92,Eligible,Approved,Allocated,13.8,812.0
+APP-11246,East,4,49600.0,Moderate Income,Female,No,45,Eligible,Approved,Allocated,5.0,1380.0
+APP-10177,West,1,31600.0,Low Income,Male,No,55,Eligible,Pending,Not Allocated,2.5,825.0
+APP-10450,North,2,32300.0,Low Income,Female,Yes,74,Eligible,Approved,Allocated,11.6,877.0
+APP-10056,Central,1,46700.0,Moderate Income,Male,Yes,58,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11279,North,2,16600.0,Very Low Income,Female ,Yes,87,Eligible,Approved,Allocated,15.1,485.0
+APP-10920,North,2,37000.0,Low Income,Female,No,62,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11410,Central,2,28500.0,Low Income,Female,Yes,78,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11222,North,4,52700.0,Moderate Income,Male,No,42,Eligible,Approved,Allocated,7.6,1458.0
+APP-11093,East,3,32500.0,Low Income,Female,No,58,Eligible,Pending,Not Allocated,6.0,918.0
+APP-11193,South,1,38400.0,Low Income,Female,Yes,64,Eligible,Pending,Not Allocated,8.4,995.0
+APP-11210,Central,2,18000.0,Very Low Income,Male,No,68,Eligible,Rejected,Not Allocated,0.0,0.0
+APP-11060,East,3,67800.0,Moderate Income,Female,Yes,57,Eligible,Approved,Not Allocated,10.9,1650.0
+APP-10642,South,3,38500.0,Low Income,Female,No,52,Eligible,Approved,Allocated,36.3,1068.0
